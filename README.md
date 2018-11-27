@@ -35,11 +35,11 @@
 
 
 
-| S. No | Course Name                          | University/Teacher(s)          | Course Webpage                                               | Video Lectures                                               | Year |
-| ----- | ------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-|       | **Learning from Data**               | Yaser Abu-Mostafa, CalTech     | [CS156](http://work.caltech.edu/telecourse.html)             | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012 |
-|       | **Introduction to Machine Learning** | Dhruv Batra, Virginia Tech     | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015 |
-|       | **Machine Learning**                 | Andrew Ng, Stanford University | [Coursera-ML](https://www.coursera.org/learn/machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | 2017 |
+| S.No | Course Name                          | University/Teacher(s)          | Course Webpage                                               | Video Lectures                                               | Year |
+| ---- | ------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|      | **Learning from Data**               | Yaser Abu-Mostafa, CalTech     | [CS156](http://work.caltech.edu/telecourse.html)             | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012 |
+|      | **Introduction to Machine Learning** | Dhruv Batra, Virginia Tech     | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015 |
+|      | **Machine Learning**                 | Andrew Ng, Stanford University | [Coursera-ML](https://www.coursera.org/learn/machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | 2017 |
 
 ------------------
 
@@ -49,16 +49,16 @@
 
 ----------------------------
 
-| S. No | Course Name                            | University/Teacher(s)                  | Course Webpage                                               | Video Lectures                                               | Year        |
-| ----- | -------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
-|       | Introduction to Reinforcement Learning | David Silver, DeepMind                 | [UCL-RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | 2015        |
-|       | Reinforcement Learning                 | Balaraman Ravindran, IIT Madras        | [RL-IITM](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNdWVHi37UggQIVcaZcmtGGEQHY9W7d9D) | 2016        |
-|       | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294](http://rail.eecs.berkeley.edu/deeprlcoursesp17/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | Spring-2017 |
-|       | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | Fall-2017   |
-|       | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294-112](http://rail.eecs.berkeley.edu/deeprlcourse/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) | 2018        |
-|       | Deep RL Bootcamp                       | Many legends                           | [Deep-RL](https://sites.google.com/view/deep-rl-bootcamp/home) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLPfj7W0fIrmy3MfjPFbpy7jFGDmvspgHE) | 2017        |
-|       | Reinforcement Learning                 | Pascal Poupart, University of Waterloo | [CS-885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) | 2018        |
-|       |                                        |                                        |                                                              |                                                              |             |
-|       |                                        |                                        |                                                              |                                                              |             |
-|       |                                        |                                        |                                                              |                                                              |             |
+| S.No | Course Name                            | University/Teacher(s)                  | Course Webpage                                               | Video Lectures                                               | Year        |
+| ---- | -------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
+|      | Introduction to Reinforcement Learning | David Silver, DeepMind                 | [UCL-RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | 2015        |
+|      | Reinforcement Learning                 | Balaraman Ravindran, IIT Madras        | [RL-IITM](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNdWVHi37UggQIVcaZcmtGGEQHY9W7d9D) | 2016        |
+|      | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294](http://rail.eecs.berkeley.edu/deeprlcoursesp17/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | Spring-2017 |
+|      | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | Fall-2017   |
+|      | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294-112](http://rail.eecs.berkeley.edu/deeprlcourse/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) | 2018        |
+|      | Deep RL Bootcamp                       | Many legends                           | [Deep-RL](https://sites.google.com/view/deep-rl-bootcamp/home) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLPfj7W0fIrmy3MfjPFbpy7jFGDmvspgHE) | 2017        |
+|      | Reinforcement Learning                 | Pascal Poupart, University of Waterloo | [CS-885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) | 2018        |
+|      |                                        |                                        |                                                              |                                                              |             |
+|      |                                        |                                        |                                                              |                                                              |             |
+|      |                                        |                                        |                                                              |                                                              |             |
 
