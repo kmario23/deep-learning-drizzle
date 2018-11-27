@@ -17,7 +17,7 @@
 |      | **Deep Learning**                                     | Francois Fleuret, EPFL                    | [EE-59](https://fleuret.org/ee559/)                          | `None`                                                       | 2019 |
 |      | **Deep Learning**                                     | Francois Fleuret, EPFL                    | [EE-59](https://fleuret.org/ee559-2018/dlc)                  | [Video-Lectures](https://fleuret.org/ee559-2018/dlc/#materials) | 2018 |
 |      | **Deep Learning for Perception**                      | Dhruv Batra, Virginia Tech                | [ECE-6504](https://computing.ece.vt.edu/~f15ece6504/)        | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yAsfH2eLBiRDa90kL2ML0f7) | 2015 |
-|      |                                                       |                                           |                                                              |                                                              |      |
+|      | **Introduction to Deep Learning**                     | Alexander Amini, Harini Suresh, MIT       | [6.S191](http://introtodeeplearning.com/)                    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | 2018 |
 |      |                                                       |                                           |                                                              |                                                              |      |
 |      |                                                       |                                           |                                                              |                                                              |      |
 |      |                                                       |                                           |                                                              |                                                              |      |
@@ -41,6 +41,6 @@
 
 |      | Course Name                          | University/Teacher(s)      | Course Webpage                                      | Video Lectures                                               | Year |
 | ---- | ------------------------------------ | -------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | ---- |
-|      |                                      |                            |                                                     |                                                              |      |
+|      | **Learning from Data**               | Yaser Abu-Mostafa, CalTech | [CS156](http://work.caltech.edu/telecourse.html)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012 |
 |      | **Introduction to Machine Learning** | Dhruv Batra, Virginia Tech | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015 |
 
