@@ -27,7 +27,7 @@
 |      |                                                       |                                           |                                                              |                                                              |      |
 |      |                                                       |                                           |                                                              |                                                              |      |
 |      |                                                       |                                           |                                                              |                                                              |      |
-|      | **Deep\|Bayes**                                       | Many Legends                              | [DeepBayes](http://deepbayes.ru/)                            | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018 |
+|      | **Deep\|Bayes**                                       | Many Legends                              | <a href="http://deepbayes.ru/" target="_blank"> DeepBayes</a> | <a href="https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62" target="_blank">YouTube-Lectures</a> | 2018 |
 
 -----------------------------
 
