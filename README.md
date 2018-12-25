@@ -24,7 +24,6 @@
 |      |                                                       |                                                 |                                                              |                                                              |           |
 |      |                                                       |                                                 |                                                              |                                                              |           |
 |      |                                                       |                                                 |                                                              |                                                              |           |
-|      |                                                       |                                                 |                                                              |                                                              |           |
 |      | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012      |
 |      | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018      |
 
@@ -34,9 +33,7 @@
 
 **General Machine Learning**
 
----------------------------
-
-
+-----------------
 
 | S.No | Course Name                          | University/Teacher(s)          | Course Webpage                                               | Video Lectures                                               | Year |
 | ---- | ------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
@@ -54,6 +51,7 @@
 
 | S.No | Course Name                            | University/Teacher(s)                  | Course Webpage                                               | Video Lectures                                               | Year        |
 | ---- | -------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
+|      | Approximate Dynamic Programming        | Dimitri P. Bertsekas                   | [Lecture-Slides](http://adpthu2014.weebly.com/slides--materials.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) | 2014        |
 |      | Introduction to Reinforcement Learning | David Silver, DeepMind                 | [UCL-RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | 2015        |
 |      | Reinforcement Learning                 | Balaraman Ravindran, IIT Madras        | [RL-IITM](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNdWVHi37UggQIVcaZcmtGGEQHY9W7d9D) | 2016        |
 |      | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294](http://rail.eecs.berkeley.edu/deeprlcoursesp17/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | Spring-2017 |
