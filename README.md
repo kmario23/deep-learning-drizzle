@@ -22,11 +22,13 @@
 | 19.  | **Deep Learning for Self-Driving Cars**               | Lex Fridman, MIT                                | [6.S094](https://selfdrivingcars.mit.edu/)                   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) | 2017-2018 |
 | 20.  | **MIT Deep Learning**                                 | Many Researchers,<br /> Lex Fridman, MIT        | [6.S094, 6.S091, 6.S093](https://deeplearning.mit.edu/)      | [YouTube-Lectures](Soon)                                     | 2019      |
 | 21.  | **Introduction to Deep Learning**                     | Biksha Raj and many others, CMU                 | [11-485/785](http://deeplearning.cs.cmu.edu/)                | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa) | 2018      |
+| 22.  | **Deep Learning Specialization**                      | Andrew Ng, Stanford                             | [DeepLearning.AI](https://www.deeplearning.ai/deep-learning-specialization/) | [YouTube-Lectures](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) | 2017-2018 |
 |      |                                                       |                                                 |                                                              |                                                              |           |
 |      |                                                       |                                                 |                                                              |                                                              |           |
 |      |                                                       |                                                 |                                                              |                                                              |           |
-| 22.  | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012      |
-| 23.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018      |
+|      |                                                       |                                                 |                                                              |                                                              |           |
+| 23.  | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012      |
+| 24.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018      |
 
 -----------------------------
 
@@ -70,7 +72,7 @@
 
 ### Contributions:
 
-If you find a course that fits it any of the three topics above (i.e. DL, ML, RL), **and** the course has lecture videos with slides, then please send a pull request by updating the course according to the above format.
+If you find a course that fits in any of the three categories above (i.e. DL, ML, RL), **and** the course has lecture videos (with slides - optional), then please send a pull request by updating the course according to the above format.
 
 Thanks!
 
