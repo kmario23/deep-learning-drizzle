@@ -28,7 +28,8 @@
 |      |                                                       |                                                 |                                                              |                                                              |            |
 |      |                                                       |                                                 |                                                              |                                                              |            |
 | 23.  | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012       |
-| 24.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018       |
+| 24.  | **New Deep Learning Techniques**                      | Many Legends, IPAM UCLA                         | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018       |
+| 25.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018       |
 
 -----------------------------
 
