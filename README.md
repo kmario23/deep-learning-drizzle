@@ -1,7 +1,7 @@
 # :tada: Deep Learning Drizzle :confetti_ball:
 | S.No | Course Name                                           | University/Teacher(s)                           | Course WebPage                                               | Lecture Videos                                               | Year            |
 | ---- | ----------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
-| 1.   | **Neural Networks for Machine Learning**              | Geoffrey Hinton, University of Toronto          | [Lecture-Slides](http://www.cs.toronto.edu/~hinton/coursera_slides.html) <br/> [CSC321-tijmen](https://www.cs.toronto.edu/~tijmen/csc321/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) <br/> [Videos-mirror](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | 2012 <br/> 2014 |
+| 1.   | **Neural Networks for Machine Learning**              | Geoffrey Hinton, University of Toronto          | [Lecture-Slides](http://www.cs.toronto.edu/~hinton/coursera_slides.html) <br/> [CSC321-tijmen](https://www.cs.toronto.edu/~tijmen/csc321/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) <br/>[mirror](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | 2012 <br/> 2014 |
 | 2.   | **Deep Learning at Oxford**                           | Nando de Freitas, Oxford University             | [Oxford-ML](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) | 2015            |
 | 3.   | **CS231n: CNNs for Visual Recognition**               | Andrej Karpathy, Stanford University            | [CS231n](http://cs231n.stanford.edu/2015/)                   | `None`                                                       | 2015            |
 | 4.   | **CS231n: CNNs for Visual Recognition**               | Andrej Karpathy, Stanford University            | [CS231n](http://cs231n.stanford.edu/2016/)                   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) | 2016            |
@@ -36,53 +36,56 @@
 
 -----------------------------
 
-:roller_coaster: **General Machine Learning** :fireworks:
+:roller_coaster: **General Machine Learning** :boom: 
 
 -----------------
 
 | S.No | Course Name                          | University/Teacher(s)          | Course Webpage                                               | Video Lectures                                               | Year |
 | ---- | ------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | 1.   | **Learning from Data**               | Yaser Abu-Mostafa, CalTech     | [CS156](http://work.caltech.edu/telecourse.html)             | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012 |
-| 2.   | **Introduction to Machine Learning** | Dhruv Batra, Virginia Tech     | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015 |
-| 3.   | **Machine Learning**                 | Andrew Ng, Stanford University | [Coursera-ML](https://www.coursera.org/learn/machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | 2017 |
+| 2.   | **Machine Learning**                 | Rudolph Triebel, TUM           | [Machine Learning](https://vision.in.tum.de/teaching/ws2013/ml_ws13) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) | 2013 |
+| 3.   | **Introduction to Machine Learning** | Dhruv Batra, Virginia Tech     | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015 |
+| 4.   | **Machine Learning**                 | Andrew Ng, Stanford University | [Coursera-ML](https://www.coursera.org/learn/machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | 2017 |
+|      |                                      |                                |                                                              |                                                              |      |
 
 ------------------
 
 -----------------
 
-:balloon: **Reinforcement Learning** :hotsprings:
+:balloon: **Reinforcement Learning** :hotsprings: :video_game:
 
 ----------------------------
 
-| S.No | Course Name                            | University/Teacher(s)                  | Course Webpage                                               | Video Lectures                                               | Year        |
-| ---- | -------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
-| 1.   | Approximate Dynamic Programming        | Dimitri P. Bertsekas                   | [Lecture-Slides](http://adpthu2014.weebly.com/slides--materials.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) | 2014        |
-| 2.   | Introduction to Reinforcement Learning | David Silver, DeepMind                 | [UCL-RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | 2015        |
-| 3.   | Reinforcement Learning                 | Balaraman Ravindran, IIT Madras        | [RL-IITM](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNdWVHi37UggQIVcaZcmtGGEQHY9W7d9D) | 2016        |
-| 4.   | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294](http://rail.eecs.berkeley.edu/deeprlcoursesp17/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | Spring-2017 |
-| 5.   | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | Fall-2017   |
-| 6.   | Deep Reinforcement Learning            | Sergey Levine, UC Berkeley             | [CS-294-112](http://rail.eecs.berkeley.edu/deeprlcourse/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) | 2018        |
-| 7.   | Deep RL Bootcamp                       | Many legends                           | [Deep-RL](https://sites.google.com/view/deep-rl-bootcamp/home) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLPfj7W0fIrmy3MfjPFbpy7jFGDmvspgHE) | 2017        |
-| 8.   | Reinforcement Learning                 | Pascal Poupart, University of Waterloo | [CS-885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) | 2018        |
-|      |                                        |                                        |                                                              |                                                              |             |
-|      |                                        |                                        |                                                              |                                                              |             |
-|      |                                        |                                        |                                                              |                                                              |             |
+| S.No | Course Name                                 | University/Teacher(s)                      | Course Webpage                                               | Video Lectures                                               | Year        |
+| ---- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
+| 1.   | **Approximate Dynamic Programming**         | Dimitri P. Bertsekas                       | [Lecture-Slides](http://adpthu2014.weebly.com/slides--materials.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) | 2014        |
+| 2.   | **Introduction to Reinforcement Learning**  | David Silver, DeepMind                     | [UCL-RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | 2015        |
+| 3.   | **Reinforcement Learning**                  | Balaraman Ravindran, IIT Madras            | [RL-IITM](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNdWVHi37UggQIVcaZcmtGGEQHY9W7d9D) | 2016        |
+| 4.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                 | [CS-294](http://rail.eecs.berkeley.edu/deeprlcoursesp17/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | Spring-2017 |
+| 5.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                 | [CS-294](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | Fall-2017   |
+| 6.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                 | [CS-294-112](http://rail.eecs.berkeley.edu/deeprlcourse/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) | 2018        |
+| 7.   | **Deep RL Bootcamp**                        | Many legends                               | [Deep-RL](https://sites.google.com/view/deep-rl-bootcamp/home) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLPfj7W0fIrmy3MfjPFbpy7jFGDmvspgHE) | 2017        |
+| 8.   | **Reinforcement Learning**                  | Pascal Poupart, University of Waterloo     | [CS-885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) | 2018        |
+| 9.   | **Deep Reinforcement Learning and Control** | Katerina Fragkiadaki and Tom Mitchell, CMU | [10-703](http://www.andrew.cmu.edu/course/10-703/)           | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLpIxOj-HnDsNfvOwRKLsUobmnF2J1l5oV) | 2018        |
+|      |                                             |                                            |                                                              |                                                              |             |
+|      |                                             |                                            |                                                              |                                                              |             |
 
 ------------------
 
 ------------------
 
-:loudspeaker: **Probabilistic Graphical Models** - *(Foundation for Graph Neural Networks)*  :volcano:
+:loudspeaker: **Probabilistic Graphical Models** - *(Foundation for Graph Neural Networks)* :sparkles:
 
 -----------
 
-| S.No | Course Name                    | University/Teacher(s)                      | Course WebPage                                               | Lecture Videos                                               | Year |
-| ---- | ------------------------------ | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 1.   | Probabilistic Graphical Models | Many Legends, MPI-IS                       | [MLSS-Tuebingen](http://mlss.tuebingen.mpg.de/2013/2013/speakers.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2013 |
-| 2.   | Probabilistic Graphical Models | Eric Xing, CMU                             | [10-708](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-) | 2014 |
-| 3.   | Probabilistic Graphical Models | Nicholas Zabaras, University of Notre Dame | [PGM-S2018](https://www.zabaras.com/probabilistic-graphical-models) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM) | 2018 |
-|      |                                |                                            |                                                              |                                                              |      |
-|      |                                |                                            |                                                              |                                                              |      |
+| S.No | Course Name                                     | University/Teacher(s)                      | Course WebPage                                               | Lecture Videos                                               | Year |
+| ---- | ----------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 1.   | **Probabilistic Graphical Models**              | Many Legends, MPI-IS                       | [MLSS-Tuebingen](http://mlss.tuebingen.mpg.de/2013/2013/speakers.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2013 |
+| 2.   | **Probabilistic Modeling and Machine Learning** | Zoubin Ghahramani, University of Cambridge | [WUST-Wroclaw](https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLwUOK5j_XOsdfVAGKErx9HqnrVZIuRbZ2) | 2013 |
+| 3.   | **Probabilistic Graphical Models**              | Eric Xing, CMU                             | [10-708](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-) | 2014 |
+| 4.   | **Probabilistic Graphical Models**              | Nicholas Zabaras, University of Notre Dame | [PGM-S2018](https://www.zabaras.com/probabilistic-graphical-models) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM) | 2018 |
+|      |                                                 |                                            |                                                              |                                                              |      |
+|      |                                                 |                                            |                                                              |                                                              |      |
 
 ------------------
 
@@ -96,13 +99,32 @@
 | ---- | ----------------------------------------------- | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | 1.   | Deep Learning for Natural Language Processing   | Many Legends, DeepMind-Oxford | [DL-NLP](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2017 |
 | 2.   | Neural Networks for Natural Language Processing | Graham Neubig, CMU            | [NN4NLP](http://www.phontron.com/class/nn4nlp2017/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT) | 2017 |
-|      |                                                 |                               |                                                              |                                                              |      |
+| 3.   | Neural Networks for Natural Language Processing | Graham Neubig, CMU            | [NN4-NLP](http://www.phontron.com/class/nn4nlp2018/)         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ba7-rY4FoB4-jfuJ7VDKEE) | 2018 |
+| 4.   | Neural Networks for Natural Language Processing | Graham Neubig, CMU            | [NN4NLP](http://www.phontron.com/class/nn4nlp2019/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) | 2019 |
 |      |                                                 |                               |                                                              |                                                              |      |
 |      |                                                 |                               |                                                              |                                                              |      |
 
 ------------
 
 ----------
+
+:fire: **Modern Computer Vision** :movie_camera: :camera:
+
+------------
+
+| S.No | Course Name                                 | University/Teacher(s)                   | Course WebPage                                               | Lecture Videos                                               | Year |
+| ---- | ------------------------------------------- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 1.   | **Convolutional Neural Networks**           | Andrew Ng, Stanford                     | [DeepLearning.AI](https://www.deeplearning.ai/deep-learning-specialization/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF) | 2017 |
+| 2.   | **Variational Methods for Computer Vision** | Daniel Cremers, TUM                     | [VMCV](https://vision.in.tum.de/teaching/ws2016/vmcv2016)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) | 2017 |
+| 3.   | **Deep Learning for Visual Computing**      | Debdoot Sheet, IIT-Kgp                  | [Nptel](https://onlinecourses.nptel.ac.in/noc18_ee08/preview) <br/>[Notebooks](https://github.com/iitkliv/dlvcnptel) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLuv3GM6-gsE1Biyakccxb3FAn4wBLyfWf) | 2018 |
+| 4.   | **Autonomous Navigation for Flying Robots** | Juergen Sturm, TUM                      | [Autonavx](https://jsturm.de/wp/teaching/autonavx-slides/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKBCUs1HmMtsnXv4JUoFrzg) | 2014 |
+| 5.   | **SLAM - Mobile Robotics**                  | Cyrill Stachniss, Universitaet Freiburg | [RobotMapping](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/) | [YouTube](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_) | 2014 |
+|      |                                             |                                         |                                                              |                                                              |      |
+|      |                                             |                                         |                                                              |                                                              |      |
+
+----------
+
+---------
 
 ## To-Do :running:
 
@@ -113,6 +135,8 @@
 :white_large_square: Speech recognition courses which are DL heavy
 
 :white_large_square: Add courses on  Graph Neural Networks
+
+:white_large_square: Add DL/RL Summer School lectures
 
 
 
