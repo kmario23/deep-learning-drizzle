@@ -1,4 +1,4 @@
-# Deep Learning Drizzle
+# :tada: Deep Learning Drizzle :confetti_ball:
 | S.No | Course Name                                           | University/Teacher(s)                           | Course WebPage                                               | Lecture Videos                                               | Year            |
 | ---- | ----------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------- |
 | 1.   | **Neural Networks for Machine Learning**              | Geoffrey Hinton, University of Toronto          | [Lecture-Slides](http://www.cs.toronto.edu/~hinton/coursera_slides.html) <br/> [CSC321-tijmen](https://www.cs.toronto.edu/~tijmen/csc321/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9) <br/> [Videos-mirror](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | 2012 <br/> 2014 |
@@ -21,21 +21,22 @@
 | 18.  | **Introduction to Deep Learning**                     | Alexander Amini, Harini Suresh, MIT             | [6.S191](http://introtodeeplearning.com/)                    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | 2018            |
 | 19.  | **Deep Learning for Self-Driving Cars**               | Lex Fridman, MIT                                | [6.S094](https://selfdrivingcars.mit.edu/)                   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) | 2017-2018       |
 | 20.  | **MIT Deep Learning**                                 | Many Researchers,<br /> Lex Fridman, MIT        | [6.S094, 6.S091, 6.S093](https://deeplearning.mit.edu/)      | [YouTube-Lectures](Soon)                                     | 2019            |
-| 21.  | **Introduction to Deep Learning**                     | Biksha Raj and many others, CMU                 | [11-485/785](http://deeplearning.cs.cmu.edu/)                | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa) | 2018            |
-| 22.  | **Deep Learning Specialization**                      | Andrew Ng, Stanford                             | [DeepLearning.AI](https://www.deeplearning.ai/deep-learning-specialization/) | [YouTube-Lectures](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) | 2017-2018       |
+| 21.  | **Introduction to Deep Learning**                     | Biksha Raj and many others, CMU                 | [11-485/785](http://deeplearning.cs.cmu.edu/)                | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa) | Spring-2018     |
+| 22.  | **Introduction to Deep Learning**                     | Biksha Raj and others, CMU                      | [11-485/785](http://deeplearning.cs.cmu.edu/)                | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPyH44FP0dl0CbYprvTcfgOI) | Fall-2018       |
+| 23.  | **Deep Learning Specialization**                      | Andrew Ng, Stanford                             | [DeepLearning.AI](https://www.deeplearning.ai/deep-learning-specialization/) | [YouTube-Lectures](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) | 2017-2018       |
 |      |                                                       |                                                 |                                                              |                                                              |                 |
 |      |                                                       |                                                 |                                                              |                                                              |                 |
 |      |                                                       |                                                 |                                                              |                                                              |                 |
 |      |                                                       |                                                 |                                                              |                                                              |                 |
-| 23.  | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012            |
-| 24.  | **New Deep Learning Techniques**                      | Many Legends, IPAM UCLA                         | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018            |
-| 25.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018            |
+| 24.  | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012            |
+| 25.  | **New Deep Learning Techniques**                      | Many Legends, IPAM UCLA                         | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018            |
+| 26.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018            |
 
 -----------------------------
 
 -----------------------------
 
-**General Machine Learning**
+:roller_coaster: **General Machine Learning** :fireworks:
 
 -----------------
 
@@ -49,7 +50,7 @@
 
 -----------------
 
-**Reinforcement Learning**
+:balloon: **Reinforcement Learning** :hotsprings:
 
 ----------------------------
 
@@ -67,11 +68,59 @@
 |      |                                        |                                        |                                                              |                                                              |             |
 |      |                                        |                                        |                                                              |                                                              |             |
 
+------------------
+
+------------------
+
+:loudspeaker: **Probabilistic Graphical Models** - *(Foundation for Graph Neural Networks)*  :volcano:
+
+-----------
+
+| S.No | Course Name                    | University/Teacher(s)                      | Course WebPage                                               | Lecture Videos                                               | Year |
+| ---- | ------------------------------ | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 1.   | Probabilistic Graphical Models | Many Legends, MPI-IS                       | [MLSS-Tuebingen](http://mlss.tuebingen.mpg.de/2013/2013/speakers.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2013 |
+| 2.   | Probabilistic Graphical Models | Eric Xing, CMU                             | [10-708](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-) | 2014 |
+| 3.   | Probabilistic Graphical Models | Nicholas Zabaras, University of Notre Dame | [PGM-S2018](https://www.zabaras.com/probabilistic-graphical-models) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM) | 2018 |
+|      |                                |                                            |                                                              |                                                              |      |
+|      |                                |                                            |                                                              |                                                              |      |
+
+------------------
+
+-------------
+
+:hibiscus: **Natural Language Processing** - *(More Applied)* :cherry_blossom:
+
+-------------
+
+| S.No | Course Name                                     | University/Teacher(s)         | Course WebPage                                               | Lecture Videos                                               | Year |
+| ---- | ----------------------------------------------- | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 1.   | Deep Learning for Natural Language Processing   | Many Legends, DeepMind-Oxford | [DL-NLP](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2017 |
+| 2.   | Neural Networks for Natural Language Processing | Graham Neubig, CMU            | [NN4NLP](http://www.phontron.com/class/nn4nlp2017/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8ABXzdqtOpB_eqBlVAz_xPT) | 2017 |
+|      |                                                 |                               |                                                              |                                                              |      |
+|      |                                                 |                               |                                                              |                                                              |      |
+|      |                                                 |                               |                                                              |                                                              |      |
+
+------------
+
+----------
+
+## To-Do :running:
+
+:white_large_square: Computer Vision courses which are DL & ML heavy
+
+:white_large_square: NLP courses which are DL, RL, & ML heavy
+
+:white_large_square: Speech recognition courses which are DL heavy
+
+:white_large_square: Add courses on  Graph Neural Networks
 
 
 
 
-### Contributions:
+
+--------------------------
+
+### Contributions :pray:
 
 If you find a course that fits in any of the three categories above (i.e. DL, ML, RL), **and** the course has lecture videos (with slides - optional), then please raise an issue or send a PR by updating the course according to the above format.
 
