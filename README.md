@@ -24,13 +24,15 @@
 | 21.  | **Introduction to Deep Learning**                     | Biksha Raj and many others, CMU                 | [11-485/785](http://deeplearning.cs.cmu.edu/)                | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPwJBJ4Q8We-0yNQEG0fZrSa) | Spring-2018     |
 | 22.  | **Introduction to Deep Learning**                     | Biksha Raj and others, CMU                      | [11-485/785](http://deeplearning.cs.cmu.edu/)                | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPyH44FP0dl0CbYprvTcfgOI) | Fall-2018       |
 | 23.  | **Deep Learning Specialization**                      | Andrew Ng, Stanford                             | [DeepLearning.AI](https://www.deeplearning.ai/deep-learning-specialization/) | [YouTube-Lectures](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) | 2017-2018       |
+| 24.  | **Deep Learning**                                     | Ali Ghodsi, University of Waterloo              | [STAT-946](https://uwaterloo.ca/data-analytics/deep-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) | Fall-2015       |
+| 25.  | **Deep Learning**                                     | Ali Ghodsi, University of Waterloo              | [STAT-946](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB) | Fall-2017       |
 |      |                                                       |                                                 |                                                              |                                                              |                 |
 |      |                                                       |                                                 |                                                              |                                                              |                 |
 |      |                                                       |                                                 |                                                              |                                                              |                 |
-|      |                                                       |                                                 |                                                              |                                                              |                 |
-| 24.  | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012            |
-| 25.  | **New Deep Learning Techniques**                      | Many Legends, IPAM UCLA                         | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018            |
-| 26.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018            |
+| 26.  | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012            |
+| 27.  | **New Deep Learning Techniques**                      | Many Legends, IPAM UCLA                         | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018            |
+| 28.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018            |
+| -1.  | **Deep Learning Book** companion videos               | Ian Goodfellow and others                       | [DL-book slides](https://www.deeplearningbook.org/lecture_slides.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b) | 2017            |
 
 -----------------------------
 
@@ -40,13 +42,15 @@
 
 -----------------
 
-| S.No | Course Name                          | University/Teacher(s)          | Course Webpage                                               | Video Lectures                                               | Year |
-| ---- | ------------------------------------ | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 1.   | **Learning from Data**               | Yaser Abu-Mostafa, CalTech     | [CS156](http://work.caltech.edu/telecourse.html)             | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012 |
-| 2.   | **Machine Learning**                 | Rudolph Triebel, TUM           | [Machine Learning](https://vision.in.tum.de/teaching/ws2013/ml_ws13) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) | 2013 |
-| 3.   | **Introduction to Machine Learning** | Dhruv Batra, Virginia Tech     | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015 |
-| 4.   | **Machine Learning**                 | Andrew Ng, Stanford University | [Coursera-ML](https://www.coursera.org/learn/machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | 2017 |
-|      |                                      |                                |                                                              |                                                              |      |
+| S.No | Course Name                               | University/Teacher(s)              | Course Webpage                                               | Video Lectures                                               | Year |
+| ---- | ----------------------------------------- | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 1.   | **Learning from Data**                    | Yaser Abu-Mostafa, CalTech         | [CS156](http://work.caltech.edu/telecourse.html)             | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012 |
+| 2.   | **Machine Learning**                      | Rudolph Triebel, TUM               | [Machine Learning](https://vision.in.tum.de/teaching/ws2013/ml_ws13) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) | 2013 |
+| 3.   | **Introduction to Machine Learning**      | Dhruv Batra, Virginia Tech         | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015 |
+| 4.   | **Statistical Learning - Classification** | Ali Ghodsi, University of Waterloo | [STAT-441](https://uwaterloo.ca/data-analytics/statistical-learning-classification) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1Hy-4ObWBK4Ab0xk97s6imfC) | 2015 |
+| 5.   | **Statistical Learning - Classification** | Ali Ghodsi, University of Waterloo | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG) | 2017 |
+| 6.   | **Machine Learning**                      | Andrew Ng, Stanford University     | [Coursera-ML](https://www.coursera.org/learn/machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | 2017 |
+|      |                                           |                                    |                                                              |                                                              |      |
 
 ------------------
 
@@ -83,7 +87,7 @@
 | 1.   | **Probabilistic Graphical Models**              | Many Legends, MPI-IS                       | [MLSS-Tuebingen](http://mlss.tuebingen.mpg.de/2013/2013/speakers.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2013 |
 | 2.   | **Probabilistic Modeling and Machine Learning** | Zoubin Ghahramani, University of Cambridge | [WUST-Wroclaw](https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLwUOK5j_XOsdfVAGKErx9HqnrVZIuRbZ2) | 2013 |
 | 3.   | **Probabilistic Graphical Models**              | Eric Xing, CMU                             | [10-708](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-) | 2014 |
-| 4.   | **Probabilistic Graphical Models**              | Nicholas Zabaras, University of Notre Dame | [PGM-S2018](https://www.zabaras.com/probabilistic-graphical-models) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM) | 2018 |
+| 4.   | **Probabilistic Graphical Models**              | Nicholas Zabaras, University of Notre Dame | [PGM](https://www.zabaras.com/probabilistic-graphical-models) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM) | 2018 |
 |      |                                                 |                                            |                                                              |                                                              |      |
 |      |                                                 |                                            |                                                              |                                                              |      |
 
@@ -146,7 +150,7 @@
 
 ### Contributions :pray:
 
-If you find a course that fits in any of the three categories above (i.e. DL, ML, RL), **and** the course has lecture videos (with slides - optional), then please raise an issue or send a PR by updating the course according to the above format.
+If you find a course that fits in any of the above categories (i.e. DL, ML, RL, CV, NLP), **and** the course has lecture videos (with slides - optional), then please raise an issue or send a PR by updating the course according to the above format.
 
 Thanks!
 
