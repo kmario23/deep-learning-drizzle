@@ -1,6 +1,3 @@
-#  :gift_heart: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board::mortar_board: :gift_heart: 
-
-
 
 -------------------------------------------------
 
@@ -47,7 +44,7 @@
 
 -------------------------------------------------
 
-# :cupid: General Machine Learning :cyclone: :boom: 
+## :cupid: General Machine Learning :cyclone: :boom: 
 
 -------------------------------------------------
 
@@ -71,7 +68,7 @@
 
 -------------------------------------------------
 
-# :balloon: Reinforcement Learning :hotsprings: :video_game: 
+## :balloon: Reinforcement Learning :hotsprings: :video_game: 
 
 -------------------------------------------------
 
@@ -93,7 +90,7 @@
 
 -------------------------------------------------
 
-# :loudspeaker: Probabilistic Graphical Models - *(Foundation for Graph Neural Networks)* :sparkles: 
+## :loudspeaker: Probabilistic Graphical Models - *(Foundation for Graph Neural Networks)* :sparkles: 
 
 -------------------------------------------------
 
@@ -110,7 +107,7 @@
 
 -------------------------------------------------
 
-# :hibiscus: Natural Language Processing - *(More Applied)* :cherry_blossom: :sparkling_heart: 
+## :hibiscus: Natural Language Processing - *(More Applied)* :cherry_blossom: :sparkling_heart: 
 
 -------------------------------------------------
 
@@ -128,7 +125,7 @@
 
 -------------------------------------------------
 
-# :fire: Modern Computer Vision :camera_flash: :movie_camera: 
+## :fire: Modern Computer Vision :camera_flash: :movie_camera: 
 
 -------------------------------------------------
 
@@ -150,7 +147,7 @@
 
 -------------------------------------------------
 
-# :running: To-Do :running:
+## To-Do :running:
 
 -------------------------------------------------
 
@@ -170,8 +167,14 @@
 
 -------------------------------------------------
 
-# :pray: Contributions :pray:
+## Contributions :pray:
 
 If you find a course that fits in any of the above categories (i.e. DL, ML, RL, CV, NLP), **and** the course has lecture videos (with slides - optional), then please raise an issue or send a PR by updating the course according to the above format.
 
 Danke Sehr!
+
+-------------------------------------------------
+
+###  :gift_heart: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board: :mortar_board::mortar_board: :gift_heart: 
+
+-------------------------------------------------
