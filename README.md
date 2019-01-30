@@ -1,7 +1,7 @@
 
 -------------------------------------------------
 
-# :tada: Deep Learning Drizzle :confetti_ball: :balloon: 
+## :tada: Deep Learning Drizzle :confetti_ball: :balloon: 
 
 -------------------------------------------------
 
@@ -40,11 +40,10 @@
 | 27.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018        |
 | -1.  | **Deep Learning Book** companion videos               | Ian Goodfellow and others                       | [DL-book slides](https://www.deeplearningbook.org/lecture_slides.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b) | 2017        |
 
--------------------
 
 -------------------------------------------------
 
-## :cupid: General Machine Learning :cyclone: :boom: 
+### :cupid: General Machine Learning :cyclone: :boom: 
 
 -------------------------------------------------
 
@@ -64,11 +63,10 @@
 |      |                                              |                                       |                                                              |                                                              |       |
 |      |                                              |                                       |                                                              |                                                              |       |
 
-------------------------
 
 -------------------------------------------------
 
-## :balloon: Reinforcement Learning :hotsprings: :video_game: 
+### :balloon: Reinforcement Learning :hotsprings: :video_game: 
 
 -------------------------------------------------
 
@@ -86,11 +84,10 @@
 |      |                                             |                                            |                                                              |                                                              |       |
 |      |                                             |                                            |                                                              |                                                              |       |
 
----------------------
 
 -------------------------------------------------
 
-## :loudspeaker: Probabilistic Graphical Models - *(Foundation for Graph Neural Networks)* :sparkles: 
+### :loudspeaker: Probabilistic Graphical Models - *(Foundation for Graph Neural Networks)* :sparkles: 
 
 -------------------------------------------------
 
@@ -103,11 +100,10 @@
 |      |                                                 |                                            |                                                              |                                                              |      |
 |      |                                                 |                                            |                                                              |                                                              |      |
 
--------------------------------
 
 -------------------------------------------------
 
-## :hibiscus: Natural Language Processing - *(More Applied)* :cherry_blossom: :sparkling_heart: 
+### :hibiscus: Natural Language Processing - *(More Applied)* :cherry_blossom: :sparkling_heart: 
 
 -------------------------------------------------
 
@@ -121,11 +117,10 @@
 |      |                                                     |                               |                                                              |                                                              |           |
 |      |                                                     |                               |                                                              |                                                              |           |
 
--------------------------
 
 -------------------------------------------------
 
-## :fire: Modern Computer Vision :camera_flash: :movie_camera: 
+### :fire: Modern Computer Vision :camera_flash: :movie_camera: 
 
 -------------------------------------------------
 
@@ -143,11 +138,10 @@
 |      |                                                  |                                             |                                                              |                                                              |      |
 |      |                                                  |                                             |                                                              |                                                              |      |
 
------------------------------------
 
 -------------------------------------------------
 
-## To-Do :running:
+### To-Do :running:
 
 -------------------------------------------------
 
@@ -167,7 +161,7 @@
 
 -------------------------------------------------
 
-## Contributions :pray:
+### Contributions :pray:
 
 If you find a course that fits in any of the above categories (i.e. DL, ML, RL, CV, NLP), **and** the course has lecture videos (with slides - optional), then please raise an issue or send a PR by updating the course according to the above format.
 
