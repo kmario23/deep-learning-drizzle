@@ -1,4 +1,3 @@
-
 -------------------------------------------------
 
 ## :tada: Deep Learning Drizzle :confetti_ball: :balloon: 
@@ -40,29 +39,28 @@
 | 27.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018        |
 | -1.  | **Deep Learning Book** companion videos               | Ian Goodfellow and others                       | [DL-book slides](https://www.deeplearningbook.org/lecture_slides.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b) | 2017        |
 
-
 -------------------------------------------------
 
 ### :cupid: General Machine Learning :cyclone: :boom: 
 
 -------------------------------------------------
 
-| S.No | Course Name                                  | University/Teacher(s)                 | Course Webpage                                               | Video Lectures                                               | Year  |
-| ---- | -------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
-| 1.   | **Learning from Data**                       | Yaser Abu-Mostafa, CalTech            | [CS156](http://work.caltech.edu/telecourse.html)             | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012  |
-| 2.   | **Machine Learning**                         | Rudolph Triebel, TUM                  | [Machine Learning](https://vision.in.tum.de/teaching/ws2013/ml_ws13) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) | 2013  |
-| 3.   | **Introduction to Machine Learning**         | Dhruv Batra, Virginia Tech            | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015  |
-| 4.   | **Statistical Learning - Classification**    | Ali Ghodsi, University of Waterloo    | [STAT-441](https://uwaterloo.ca/data-analytics/statistical-learning-classification) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1Hy-4ObWBK4Ab0xk97s6imfC) | 2015  |
-| 5.   | **Introduction to Machine Learning**         | Alex Smola, CMU                       | [10-701](http://alex.smola.org/teaching/10-701-15/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn) | S2015 |
-| 6.   | **Statistical Machine Learning**             | Larry Wasserman                       | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) | S2016 |
-| 7.   | **Statistical Learning - Classification**    | Ali Ghodsi, University of Waterloo    | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG) | 2017  |
-| 8.   | **Machine Learning**                         | Andrew Ng, Stanford University        | [Coursera-ML](https://www.coursera.org/learn/machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | 2017  |
-| 9.   | **CS229: Machine Learning**                  | Andrew Ng, Stanford University        | [CS229](http://cs229.stanford.edu/)                          | [YouTube-Lectures-2014](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) | 2017  |
-| 10.  | **Statistical Machine Learning**             | Ryan Tibshirani, Larry Wasserman, CMU | [10-702](http://www.stat.cmu.edu/~ryantibs/statml/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv) | S2017 |
-| 11.  | **Machine Learning for Intelligent Systems** | Kilian Weinberger, Cornell University | [CS4780](http://www.cs.cornell.edu/courses/cs4780/2018fa/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) | F2018 |
-|      |                                              |                                       |                                                              |                                                              |       |
-|      |                                              |                                       |                                                              |                                                              |       |
-
+| S.No | Course Name                                  | University/Teacher(s)                  | Course Webpage                                               | Video Lectures                                               | Year  |
+| ---- | -------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
+| 1.   | **Learning from Data**                       | Yaser Abu-Mostafa, CalTech             | [CS156](http://work.caltech.edu/telecourse.html)             | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012  |
+| 2.   | **Machine Learning**                         | Rudolph Triebel, TUM                   | [Machine Learning](https://vision.in.tum.de/teaching/ws2013/ml_ws13) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) | 2013  |
+| 3.   | **Introduction to Machine Learning**         | Dhruv Batra, Virginia Tech             | [ECE-5984](https://filebox.ece.vt.edu/~s15ece5984/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL-fZD610i7yDUiNTFy-tEOxkTwg4mHZHu) | 2015  |
+| 4.   | **Statistical Learning - Classification**    | Ali Ghodsi, University of Waterloo     | [STAT-441](https://uwaterloo.ca/data-analytics/statistical-learning-classification) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1Hy-4ObWBK4Ab0xk97s6imfC) | 2015  |
+| 5    | **Machine Learning Theory**                  | Shai Ben-David, University of Waterloo | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO) | 2015  |
+| 6.   | **Introduction to Machine Learning**         | Alex Smola, CMU                        | [10-701](http://alex.smola.org/teaching/10-701-15/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn) | S2015 |
+| 7.   | **Statistical Machine Learning**             | Larry Wasserman                        | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE) | S2016 |
+| 8.   | **Statistical Learning - Classification**    | Ali Ghodsi, University of Waterloo     | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG) | 2017  |
+| 9.   | **Machine Learning**                         | Andrew Ng, Stanford University         | [Coursera-ML](https://www.coursera.org/learn/machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | 2017  |
+| 10.  | **CS229: Machine Learning**                  | Andrew Ng, Stanford University         | [CS229](http://cs229.stanford.edu/)                          | [YouTube-Lectures-2014](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) | 2017  |
+| 11.  | **Statistical Machine Learning**             | Ryan Tibshirani, Larry Wasserman, CMU  | [10-702](http://www.stat.cmu.edu/~ryantibs/statml/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLjbUi5mgii6B7A0nM74zHTOVQtTC9DaCv) | S2017 |
+| 12.  | **Machine Learning for Intelligent Systems** | Kilian Weinberger, Cornell University  | [CS4780](http://www.cs.cornell.edu/courses/cs4780/2018fa/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS) | F2018 |
+|      |                                              |                                        |                                                              |                                                              |       |
+|      |                                              |                                        |                                                              |                                                              |       |
 
 -------------------------------------------------
 
@@ -70,20 +68,20 @@
 
 -------------------------------------------------
 
-| S.No | Course Name                                 | University/Teacher(s)                      | Course Webpage                                               | Video Lectures                                               | Year  |
-| ---- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
-| 1.   | **Approximate Dynamic Programming**         | Dimitri P. Bertsekas, MIT                  | [Lecture-Slides](http://adpthu2014.weebly.com/slides--materials.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) | 2014  |
-| 2.   | **Introduction to Reinforcement Learning**  | David Silver, DeepMind                     | [UCL-RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | 2015  |
-| 3.   | **Reinforcement Learning**                  | Balaraman Ravindran, IIT Madras            | [RL-IITM](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNdWVHi37UggQIVcaZcmtGGEQHY9W7d9D) | 2016  |
-| 4.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                 | [CS-294](http://rail.eecs.berkeley.edu/deeprlcoursesp17/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | S2017 |
-| 5.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                 | [CS-294](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | F2017 |
-| 6.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                 | [CS-294-112](http://rail.eecs.berkeley.edu/deeprlcourse/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) | 2018  |
-| 7.   | **Deep RL Bootcamp**                        | Many legends                               | [Deep-RL](https://sites.google.com/view/deep-rl-bootcamp/home) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLPfj7W0fIrmy3MfjPFbpy7jFGDmvspgHE) | 2017  |
-| 8.   | **Reinforcement Learning**                  | Pascal Poupart, University of Waterloo     | [CS-885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) | 2018  |
-| 9.   | **Deep Reinforcement Learning and Control** | Katerina Fragkiadaki and Tom Mitchell, CMU | [10-703](http://www.andrew.cmu.edu/course/10-703/)           | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLpIxOj-HnDsNfvOwRKLsUobmnF2J1l5oV) | 2018  |
-|      |                                             |                                            |                                                              |                                                              |       |
-|      |                                             |                                            |                                                              |                                                              |       |
-
+| S.No | Course Name                                 | University/Teacher(s)                          | Course Webpage                                               | Video Lectures                                               | Year  |
+| ---- | ------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
+| 1.   | **Approximate Dynamic Programming**         | Dimitri P. Bertsekas, MIT                      | [Lecture-Slides](http://adpthu2014.weebly.com/slides--materials.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) | 2014  |
+| 2.   | **Introduction to Reinforcement Learning**  | David Silver, DeepMind                         | [UCL-RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | 2015  |
+| 3.   | **Reinforcement Learning**                  | Charles Isbell, GaTech; Michael Littman, Brown | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLED7YdXrsctUalxgKr94YuAHTZCB5Xma1) | 2015  |
+| 4.   | **Reinforcement Learning**                  | Balaraman Ravindran, IIT Madras                | [RL-IITM](https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNdWVHi37UggQIVcaZcmtGGEQHY9W7d9D) | 2016  |
+| 5.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                     | [CS-294](http://rail.eecs.berkeley.edu/deeprlcoursesp17/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX) | S2017 |
+| 6.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                     | [CS-294](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | F2017 |
+| 7.   | **Deep Reinforcement Learning**             | Sergey Levine, UC Berkeley                     | [CS-294-112](http://rail.eecs.berkeley.edu/deeprlcourse/)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) | 2018  |
+| 8.   | **Deep RL Bootcamp**                        | Many legends                                   | [Deep-RL](https://sites.google.com/view/deep-rl-bootcamp/home) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLPfj7W0fIrmy3MfjPFbpy7jFGDmvspgHE) | 2017  |
+| 9.   | **Reinforcement Learning**                  | Pascal Poupart, University of Waterloo         | [CS-885](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) | 2018  |
+| 10.  | **Deep Reinforcement Learning and Control** | Katerina Fragkiadaki and Tom Mitchell, CMU     | [10-703](http://www.andrew.cmu.edu/course/10-703/)           | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLpIxOj-HnDsNfvOwRKLsUobmnF2J1l5oV) | 2018  |
+|      |                                             |                                                |                                                              |                                                              |       |
+|      |                                             |                                                |                                                              |                                                              |       |
 
 -------------------------------------------------
 
@@ -100,7 +98,6 @@
 |      |                                                 |                                            |                                                              |                                                              |      |
 |      |                                                 |                                            |                                                              |                                                              |      |
 
-
 -------------------------------------------------
 
 ### :hibiscus: Natural Language Processing - *(More Applied)* :cherry_blossom: :sparkling_heart: 
@@ -116,7 +113,6 @@
 | 5.   | **Neural Networks for Natural Language Processing** | Graham Neubig, CMU            | [NN4NLP](http://www.phontron.com/class/nn4nlp2019/)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs) | 2019      |
 |      |                                                     |                               |                                                              |                                                              |           |
 |      |                                                     |                               |                                                              |                                                              |           |
-
 
 -------------------------------------------------
 
@@ -138,6 +134,21 @@
 |      |                                                  |                                             |                                                              |                                                              |      |
 |      |                                                  |                                             |                                                              |                                                              |      |
 
+-------------------------------------------------
+
+### :star2: Boot Camps or Summer Schools :maple_leaf:
+
+-------------------------------------------------
+
+| S.No | Course Name                                   | University/Teacher(s)          | Course WebPage                                               | Lecture Videos                                               | Year |
+| ---- | --------------------------------------------- | ------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 1.   | **Big Data Boot Camp**                        | Many Legends, Simons Institute | [Big Data](https://simons.berkeley.edu/workshops/schedule/316) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13RmUC2AybRvVAxO5DEMIBH) | 2013 |
+| 2.   | **Representation Learning**                   | Many Legends, Simons Institute | [RepLearn](https://simons.berkeley.edu/workshops/abstracts/3750) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13UNV4ztsWUXciUZ7x_ZDHz) | 2017 |
+| 3.   | **Foundations of Machine Learning**           | Many Legends, Simons Institute | [ML-BootCamp](https://simons.berkeley.edu/workshops/abstracts/3748) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD) | 2017 |
+| 4.   | **Optimization, Statistics, and Uncertainty** | Many Legends, Simons Institute | [Optim-Stats](https://simons.berkeley.edu/workshops/abstracts/4795) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13ACD44z2FH-IVP1e8ip5JO) | 2017 |
+| 5.   | **Foundations of Data Science**               | Many Legends, Simons Institute | [DS-BootCamp](https://simons.berkeley.edu/workshops/abstracts/6680) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13r1Qrnrejj3f498-NurSf3) | 2018 |
+|      |                                               |                                |                                                              |                                                              |      |
+|      |                                               |                                |                                                              |                                                              |      |
 
 -------------------------------------------------
 
