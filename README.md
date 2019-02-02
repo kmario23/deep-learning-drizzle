@@ -6,14 +6,14 @@
 
 ### Contents
 -------------------------------------------------
- - ### Deep Learning (Deep Neural Networks)  [:arrow_heading_down:]()
- - ### Machine Learning Fundamentals  [:arrow_heading_down:]()
- - ### General Machine Learning [:arrow_heading_down:]()
- - ### Reinforcement Learning [:arrow_heading_down:]()
- - ### Probabilistic Graphical Models [:arrow_heading_down:]()
- - ### Natural Language Processing [:arrow_heading_down:]()
- - ### Modern Computer Vision [:arrow_heading_down:]()
- - ### Boot Camps or Summer Schools [:arrow_heading_down:]()
+ - ### Deep Learning (Deep Neural Networks)  [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#tada-deep-learning-confetti_ball-balloon) 
+ - ### Machine Learning Fundamentals  [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#cupid-machine-learning-fundamentals-cyclone-boom) 
+ - ### General Machine Learning [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#cupid-general-machine-learning-cyclone-boom) 
+ - ### Reinforcement Learning [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#balloon-reinforcement-learning-hotsprings-video_game) 
+ - ### Probabilistic Graphical Models [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#loudspeaker-probabilistic-graphical-models---foundation-for-graph-neural-networks-sparkles) 
+ - ### Natural Language Processing [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing---more-applied-cherry_blossom-sparkling_heart) 
+ - ### Modern Computer Vision [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#fire-modern-computer-vision-camera_flash-movie_camera) 
+ - ### Boot Camps or Summer Schools [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#star2-boot-camps-or-summer-schools-maple_leaf) 
 
 -------------------------------------------------
 
@@ -53,8 +53,7 @@
 | -1.  | **Neural Networks**                                   | Grant Sanderson                                 | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 2017-2018   |
 |      |                                                       |                                                 |                                                              |                                                              |             |
 
-
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
@@ -75,8 +74,7 @@
 |      |                                                              |                                                       |                                                              |                                                              |            |
 |      |                                                              |                                                       |                                                              |                                                              |            |
 
-
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
@@ -102,8 +100,7 @@
 |      |                                                  |                                               |                                                              |                                                              |       |
 |      |                                                  |                                               |                                                              |                                                              |       |
 
-
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
@@ -126,8 +123,7 @@
 |      |                                             |                                                |                                                              |                                                              |       |
 |      |                                             |                                                |                                                              |                                                              |       |
 
-
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
@@ -144,8 +140,7 @@
 |      |                                                 |                                            |                                                              |                                                              |      |
 |      |                                                 |                                            |                                                              |                                                              |      |
 
-
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
@@ -163,8 +158,7 @@
 |      |                                                     |                               |                                                              |                                                              |           |
 |      |                                                     |                               |                                                              |                                                              |           |
 
-
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
@@ -186,8 +180,7 @@
 |      |                                                  |                                             |                                                              |                                                              |      |
 |      |                                                  |                                             |                                                              |                                                              |      |
 
-
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
@@ -210,8 +203,7 @@
 | 10.  | **Deep\|Bayes**                                         | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018 |
 | 11.  | **New Deep Learning Techniques**                        | Many Legends, IPAM UCLA                         | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018 |
 
-
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
@@ -233,7 +225,7 @@
 
 -------------------------------------------------
 
-[Go to Contents :arrow_heading_up:]()
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
 
