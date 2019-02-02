@@ -1,10 +1,27 @@
+
+# :tada: Deep Learning Drizzle :confetti_ball: :balloon:
+
 -------------------------------------------------
 
-## :tada: Deep Learning Drizzle :confetti_ball: :balloon: 
+
+### Contents
+-------------------------------------------------
+ - ### Deep Learning (Deep Neural Networks)  [:arrow_heading_down:]()
+ - ### Machine Learning Fundamentals  [:arrow_heading_down:]()
+ - ### General Machine Learning [:arrow_heading_down:]()
+ - ### Reinforcement Learning [:arrow_heading_down:]()
+ - ### Probabilistic Graphical Models [:arrow_heading_down:]()
+ - ### Natural Language Processing [:arrow_heading_down:]()
+ - ### Modern Computer Vision [:arrow_heading_down:]()
+ - ### Boot Camps or Summer Schools [:arrow_heading_down:]()
 
 -------------------------------------------------
 
-| S.No | Course Name                                           | University/Teacher(s)                           | Course WebPage                                               | Lecture Videos                                               | Year        |
+## :tada: Deep Learning :confetti_ball: :balloon: 
+
+-------------------------------------------------
+
+| S.No | Course Name                                           | University/Instructor(s)                        | Course WebPage                                               | Lecture Videos                                               | Year        |
 | ---- | ----------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------- |
 | 1.   | **Neural Networks for Machine Learning**              | Geoffrey Hinton, University of Toronto          | [Lecture-Slides](http://www.cs.toronto.edu/~hinton/coursera_slides.html)   [CSC321-tijmen](https://www.cs.toronto.edu/~tijmen/csc321/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)  [mirror](https://www.cs.toronto.edu/~hinton/coursera_lectures.html) | 2012   2014 |
 | 2.   | **Deep Learning at Oxford**                           | Nando de Freitas, Oxford University             | [Oxford-ML](http://www.cs.ox.ac.uk/teaching/courses/2014-2015/ml/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) | 2015        |
@@ -32,12 +49,34 @@
 | 23.  | **Deep Learning**                                     | Ali Ghodsi, University of Waterloo              | [STAT-946](https://uwaterloo.ca/data-analytics/deep-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) | F2015       |
 | 24.  | **Deep Learning**                                     | Ali Ghodsi, University of Waterloo              | [STAT-946](https://uwaterloo.ca/data-analytics/teaching/deep-learning-2017) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLehuLRPyt1HxTolYUWeyyIoxDabDmaOSB) | F2017       |
 |      |                                                       |                                                 |                                                              |                                                              |             |
+| -2.  | **Deep Learning Book** companion videos               | Ian Goodfellow and others                       | [DL-book slides](https://www.deeplearningbook.org/lecture_slides.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b) | 2017        |
+| -1.  | **Neural Networks**                                   | Grant Sanderson                                 | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) | 2017-2018   |
 |      |                                                       |                                                 |                                                              |                                                              |             |
-|      |                                                       |                                                 |                                                              |                                                              |             |
-| 25.  | **Deep Learning, Feature Learning**                   | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012        |
-| 26.  | **New Deep Learning Techniques**                      | Many Legends, IPAM UCLA                         | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018        |
-| 27.  | **Deep\|Bayes**                                       | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018        |
-| -1.  | **Deep Learning Book** companion videos               | Ian Goodfellow and others                       | [DL-book slides](https://www.deeplearningbook.org/lecture_slides.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b) | 2017        |
+
+
+[Go to Contents :arrow_heading_up:]()
+
+-------------------------------------------------
+
+### :cupid: Machine Learning Fundamentals :cyclone: :boom: 
+
+-------------------------------------------------
+
+| S.No | Course Name                                                  | University/Instructor(s)                              | Course Webpage                                               | Video Lectures                                               | Year       |
+| ---- | ------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| 1.   | **Linear Algebra**                                           | Gilbert Strang, MIT                                   | [18.06 SC](http://ocw.mit.edu/18-06SCF11)                    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) | 2011       |
+| 2.   | **Linear Algebra: An in-depth Introduction**                 | Pavel Grinfeld                                        | `None`                                                       | [Part-1](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv) <br/> [Part-2](https://www.youtube.com/playlist?list=PLlXfTHzgMRULWJYthculb2QWEiZOkwTSU)  <br/> [Part-3](https://www.youtube.com/playlist?list=PLlXfTHzgMRUIqYrutsFXCOmiqKUgOgGJ5) <br/> [Part-4](https://www.youtube.com/playlist?list=PLlXfTHzgMRULZfrNCrrJ7xDcTjGr633mm) | 2015- 2017 |
+| 3.   | **Essence of Linear Algebra**                                | Grant Sanderson                                       | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 2016       |
+| 4.   | **Essence of Calculus**                                      | Grant Sanderson                                       | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) | 2017-2018  |
+| 5.   | **Mathematics for Machine Learning** (Linear Algebra, Calculus) | David Dye, Samuel Cooper, and Freddie Page, IC-London | [MML](https://www.coursera.org/learn/linear-algebra-machine-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLmAuaUS7wSOP-iTNDivR0ANKuTUhEzMe4) | 2018       |
+| 6.   | **Machine Learning Fundamentals**                            | Sanjoy Dasgupta, UC-San Diego                         | [MLF-slides](https://drive.google.com/drive/folders/1l1rwv-jMihLZIpW0zTgGN9-snWOsA3M9) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL_onPhFCkVQhUzcTVgQiC8W2ShZKWlm0s) | 2018       |
+|      |                                                              |                                                       |                                                              |                                                              |            |
+|      |                                                              |                                                       |                                                              |                                                              |            |
+|      |                                                              |                                                       |                                                              |                                                              |            |
+|      |                                                              |                                                       |                                                              |                                                              |            |
+
+
+[Go to Contents :arrow_heading_up:]()
 
 -------------------------------------------------
 
@@ -45,7 +84,7 @@
 
 -------------------------------------------------
 
-| S.No | Course Name                                      | University/Teacher(s)                         | Course Webpage                                               | Video Lectures                                               | Year  |
+| S.No | Course Name                                      | University/Instructor(s)                      | Course Webpage                                               | Video Lectures                                               | Year  |
 | ---- | ------------------------------------------------ | --------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
 | 1.   | **Learning from Data**                           | Yaser Abu-Mostafa, CalTech                    | [CS156](http://work.caltech.edu/telecourse.html)             | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD63A284B7615313A) | 2012  |
 | 2.   | **Machine Learning**                             | Rudolph Triebel, TUM                          | [Machine Learning](https://vision.in.tum.de/teaching/ws2013/ml_ws13) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl) | 2013  |
@@ -63,13 +102,16 @@
 |      |                                                  |                                               |                                                              |                                                              |       |
 |      |                                                  |                                               |                                                              |                                                              |       |
 
+
+[Go to Contents :arrow_heading_up:]()
+
 -------------------------------------------------
 
 ### :balloon: Reinforcement Learning :hotsprings: :video_game: 
 
 -------------------------------------------------
 
-| S.No | Course Name                                 | University/Teacher(s)                          | Course Webpage                                               | Video Lectures                                               | Year  |
+| S.No | Course Name                                 | University/Instructor(s)                       | Course Webpage                                               | Video Lectures                                               | Year  |
 | ---- | ------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- |
 | 1.   | **Approximate Dynamic Programming**         | Dimitri P. Bertsekas, MIT                      | [Lecture-Slides](http://adpthu2014.weebly.com/slides--materials.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLiCLbsFQNFAxOmVeqPhI5er1LGf2-L9I4) | 2014  |
 | 2.   | **Introduction to Reinforcement Learning**  | David Silver, DeepMind                         | [UCL-RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | 2015  |
@@ -84,13 +126,16 @@
 |      |                                             |                                                |                                                              |                                                              |       |
 |      |                                             |                                                |                                                              |                                                              |       |
 
+
+[Go to Contents :arrow_heading_up:]()
+
 -------------------------------------------------
 
 ### :loudspeaker: Probabilistic Graphical Models - *(Foundation for Graph Neural Networks)* :sparkles: 
 
 -------------------------------------------------
 
-| S.No | Course Name                                     | University/Teacher(s)                      | Course WebPage                                               | Lecture Videos                                               | Year |
+| S.No | Course Name                                     | University/Instructor(s)                   | Course WebPage                                               | Lecture Videos                                               | Year |
 | ---- | ----------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | 1.   | **Probabilistic Graphical Models**              | Many Legends, MPI-IS                       | [MLSS-Tuebingen](http://mlss.tuebingen.mpg.de/2013/2013/speakers.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2013 |
 | 2.   | **Probabilistic Modeling and Machine Learning** | Zoubin Ghahramani, University of Cambridge | [WUST-Wroclaw](https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLwUOK5j_XOsdfVAGKErx9HqnrVZIuRbZ2) | 2013 |
@@ -99,13 +144,16 @@
 |      |                                                 |                                            |                                                              |                                                              |      |
 |      |                                                 |                                            |                                                              |                                                              |      |
 
+
+[Go to Contents :arrow_heading_up:]()
+
 -------------------------------------------------
 
 ### :hibiscus: Natural Language Processing - *(More Applied)* :cherry_blossom: :sparkling_heart: 
 
 -------------------------------------------------
 
-| S.No | Course Name                                         | University/Teacher(s)         | Course WebPage                                               | Lecture Videos                                               | Year      |
+| S.No | Course Name                                         | University/Instructor(s)      | Course WebPage                                               | Lecture Videos                                               | Year      |
 | ---- | --------------------------------------------------- | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
 | 1.   | **Deep Learning for Natural Language Processing**   | Nils Reimers, TU Darmstadt    | [DL4NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLpIxOj-HnDsPgpBnVmWp8tW4RNdI0g25i) | 2015-2017 |
 | 2.   | **Deep Learning for Natural Language Processing**   | Many Legends, DeepMind-Oxford | [DL-NLP](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2017      |
@@ -115,13 +163,16 @@
 |      |                                                     |                               |                                                              |                                                              |           |
 |      |                                                     |                               |                                                              |                                                              |           |
 
+
+[Go to Contents :arrow_heading_up:]()
+
 -------------------------------------------------
 
 ### :fire: Modern Computer Vision :camera_flash: :movie_camera: 
 
 -------------------------------------------------
 
-| S.No | Course Name                                      | University/Teacher(s)                       | Course WebPage                                               | Lecture Videos                                               | Year |
+| S.No | Course Name                                      | University/Instructor(s)                    | Course WebPage                                               | Lecture Videos                                               | Year |
 | ---- | ------------------------------------------------ | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | 1.   | **Computer Vision** - (classical)                | Mubarak Shah, UCF                           | [CAP-5415](http://crcv.ucf.edu/courses/CAP5415/Fall2012/index.php) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm) | 2012 |
 | 2.   | **Computer Vision** - (classical)                | Mubarak Shah, UCF                           | [CAP-5415](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9) | 2014 |
@@ -135,23 +186,32 @@
 |      |                                                  |                                             |                                                              |                                                              |      |
 |      |                                                  |                                             |                                                              |                                                              |      |
 
+
+[Go to Contents :arrow_heading_up:]()
+
 -------------------------------------------------
 
 ### :star2: Boot Camps or Summer Schools :maple_leaf:
 
 -------------------------------------------------
 
-| S.No | Course Name                                      | University/Teacher(s)                           | Course WebPage                                               | Lecture Videos                                               | Year |
-| ---- | ------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 1.   | **Big Data Boot Camp**                           | Many Legends, Simons Institute                  | [Big Data](https://simons.berkeley.edu/workshops/schedule/316) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13RmUC2AybRvVAxO5DEMIBH) | 2013 |
-| 2.   | **Microsoft Research - Machine Learning Course** | S V N Vishwanathan and Prateek Jain MS-Research | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf) | 2016 |
-| 3.   | **Deep Learning Summer School**                  | Many Legends, Université de Montréal            | [DL-SS-16](https://sites.google.com/site/deeplearningsummerschool2016/home) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR) | 2016 |
-| 4.   | **Representation Learning**                      | Many Legends, Simons Institute                  | [RepLearn](https://simons.berkeley.edu/workshops/abstracts/3750) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13UNV4ztsWUXciUZ7x_ZDHz) | 2017 |
-| 5.   | **Foundations of Machine Learning**              | Many Legends, Simons Institute                  | [ML-BootCamp](https://simons.berkeley.edu/workshops/abstracts/3748) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD) | 2017 |
-| 6.   | **Optimization, Statistics, and Uncertainty**    | Many Legends, Simons Institute                  | [Optim-Stats](https://simons.berkeley.edu/workshops/abstracts/4795) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13ACD44z2FH-IVP1e8ip5JO) | 2017 |
-| 7.   | **Foundations of Data Science**                  | Many Legends, Simons Institute                  | [DS-BootCamp](https://simons.berkeley.edu/workshops/abstracts/6680) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13r1Qrnrejj3f498-NurSf3) | 2018 |
-|      |                                                  |                                                 |                                                              |                                                              |      |
-|      |                                                  |                                                 |                                                              |                                                              |      |
+| S.No | Course Name                                             | University/Instructor(s)                        | Course WebPage                                               | Lecture Videos                                               | Year |
+| ---- | ------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 0.   | **Optimization for Machine Learning**                   | S V N Vishwanathan, Purdue                      | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL09B0E8AFC69BE108) | 2011 |
+| 1.   | **Deep Learning, Feature Learning**                     | Many legends, IPAM UCLA                         | [GSS-2012](https://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) | 2012 |
+| 2.   | **Big Data Boot Camp**                                  | Many Legends, Simons Institute                  | [Big Data](https://simons.berkeley.edu/workshops/schedule/316) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13RmUC2AybRvVAxO5DEMIBH) | 2013 |
+| 3.   | **Microsoft Research - Machine Learning Course**        | S V N Vishwanathan and Prateek Jain MS-Research | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf) | 2016 |
+| 4.   | **Deep Learning Summer School**                         | Many Legends, Université de Montréal            | [DL-SS-16](https://sites.google.com/site/deeplearningsummerschool2016/home) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL5bqIc6XopCbb-FvnHmD1neVlQKwGzQyR) | 2016 |
+| 5.   | **Representation Learning**                             | Many Legends, Simons Institute                  | [RepLearn](https://simons.berkeley.edu/workshops/abstracts/3750) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13UNV4ztsWUXciUZ7x_ZDHz) | 2017 |
+| 6.   | **Foundations of Machine Learning**                     | Many Legends, Simons Institute                  | [ML-BootCamp](https://simons.berkeley.edu/workshops/abstracts/3748) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD) | 2017 |
+| 7.   | **Optimization, Statistics, and Uncertainty**           | Many Legends, Simons Institute                  | [Optim-Stats](https://simons.berkeley.edu/workshops/abstracts/4795) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13ACD44z2FH-IVP1e8ip5JO) | 2017 |
+| 8.   | **Deep Learning: Theory, Algorithms, and Applications** | Many Legends, TU-Berlin                         | [DL: TAA](http://doc.ml.tu-berlin.de/dlworkshop2017/)        | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW) | 2017 |
+| 9.   | **Foundations of Data Science**                         | Many Legends, Simons Institute                  | [DS-BootCamp](https://simons.berkeley.edu/workshops/abstracts/6680) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre13r1Qrnrejj3f498-NurSf3) | 2018 |
+| 10.  | **Deep\|Bayes**                                         | Many Legends                                    | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018 |
+| 11.  | **New Deep Learning Techniques**                        | Many Legends, IPAM UCLA                         | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018 |
+
+
+[Go to Contents :arrow_heading_up:]()
 
 -------------------------------------------------
 
@@ -171,7 +231,9 @@
 
 :white_large_square: Section on DL/RL/ML Summer School Lectures
 
+-------------------------------------------------
 
+[Go to Contents :arrow_heading_up:]()
 
 -------------------------------------------------
 
