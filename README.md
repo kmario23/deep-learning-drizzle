@@ -13,7 +13,7 @@
  - ### Reinforcement Learning [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#balloon-reinforcement-learning-hotsprings-video_game) 
  - ### Probabilistic Graphical Models [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#loudspeaker-probabilistic-graphical-models---foundation-for-graph-neural-networks-sparkles) 
  - ### Natural Language Processing [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing---more-applied-cherry_blossom-sparkling_heart) 
- - ### Automatic Speech Recognition [:arrow_heading_down:]() 
+ - ### Automatic Speech Recognition [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#speaking_head-automatic-speech-recognition-speech_balloon-thought_balloon)  
  - ### Modern Computer Vision [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#fire-modern-computer-vision-camera_flash-movie_camera) 
  - ### Boot Camps or Summer Schools [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#star2-boot-camps-or-summer-schools-maple_leaf) 
  - ### Bird's Eye view of Artificial (General) Intelligence [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle) 
