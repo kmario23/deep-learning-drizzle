@@ -1,5 +1,5 @@
 
-# :tada: Deep Learning Drizzle :confetti_ball: :balloon:
+# :balloon: :tada: Deep Learning Drizzle :confetti_ball: :balloon:
 
 -------------------------------------------------
 
@@ -13,9 +13,10 @@
  - ### Reinforcement Learning [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#balloon-reinforcement-learning-hotsprings-video_game) 
  - ### Probabilistic Graphical Models [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#loudspeaker-probabilistic-graphical-models---foundation-for-graph-neural-networks-sparkles) 
  - ### Natural Language Processing [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing---more-applied-cherry_blossom-sparkling_heart) 
+ - ### Automatic Speech Recognition [:arrow_heading_down:]() 
  - ### Modern Computer Vision [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#fire-modern-computer-vision-camera_flash-movie_camera) 
  - ### Boot Camps or Summer Schools [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#star2-boot-camps-or-summer-schools-maple_leaf) 
- - ### Bird's Eye view of A(G)I [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle) 
+ - ### Bird's Eye view of Artificial (General) Intelligence [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle) 
 -------------------------------------------------
 
 ## :tada: Deep Learning :confetti_ball: :balloon: 
@@ -185,6 +186,25 @@
 |      |                                                     |                               |                                                              |                                                              |           |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
+
+-------------------------------------------------
+
+###  :speaking_head: Automatic Speech Recognition :speech_balloon: :thought_balloon:
+
+-------------------------------------------------
+
+| S.No | Course Name                              | University/Instructor(s)       | Course WebPage                                      | Lecture Videos                                               | Year      |
+| ---- | ---------------------------------------- | ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ | --------- |
+| 1.   | **Deep Learning for Speech & Language**  | Many Legends, UPC Barcelona    | [DL-SL](https://telecombcn-dl.github.io/2017-dlsl/) | [Lecture-Videos](https://telecombcn-dl.github.io/2017-dlsl/) <br/> [YouTube-Videos](https://www.youtube.com/playlist?list=PL-5DCZHuHZkWeF9ljIjoC_X5gHRLNtIkU) | 2017      |
+| 2.   | **Speech and Audio in the Northeast**    | Many Legends, Google NYC       | [SANE-15](http://www.saneworkshop.org/sane2015/)    | [YouTube-Videos](https://www.youtube.com/playlist?list=PLBJWRPcgwk7sZOB4UTVilWWnRg84L9o5i) | 2015      |
+| 3.   | **Speech and Audio in the Northeast**    | Many Legends, Google NYC       | [SANE-17](http://www.saneworkshop.org/sane2017/)    | [YouTube-Videos](https://www.youtube.com/playlist?list=PLBJWRPcgwk7tNLaBVu_S90ZQSblO3bwjg) | 2017      |
+| 4.   | **Speech and Audio in the Northeast**    | Many Legends, Google Cambridge | [SANE-18](http://www.saneworkshop.org/sane2018/)    | [YouTube-Videos](https://www.youtube.com/playlist?list=PLBJWRPcgwk7sjMANn8jqosyHIMe6DJhmn) | 2018      |
+|      |                                          |                                |                                                     |                                                              |           |
+| -1.  | **Deep Learning for Speech Recognition** | Many Legends, AoE              | `None`                                              | [YouTube-Videos](https://www.youtube.com/playlist?list=PLM4Pv4KYYzGyFYCXV6YPWAKVOR2gmHnQd) | 2015-2018 |
+
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
+
+
 
 -------------------------------------------------
 
