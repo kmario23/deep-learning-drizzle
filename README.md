@@ -15,7 +15,7 @@
  - ### Natural Language Processing [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#hibiscus-natural-language-processing---more-applied-cherry_blossom-sparkling_heart) 
  - ### Modern Computer Vision [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#fire-modern-computer-vision-camera_flash-movie_camera) 
  - ### Boot Camps or Summer Schools [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#star2-boot-camps-or-summer-schools-maple_leaf) 
- - ### Bird's Eye view of A(G)I [:arrow_heading_down:]() 
+ - ### Bird's Eye view of A(G)I [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle) 
 -------------------------------------------------
 
 ## :tada: Deep Learning :confetti_ball: :balloon: 
