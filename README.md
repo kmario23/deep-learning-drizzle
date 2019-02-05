@@ -123,6 +123,7 @@
 | 17.  | **Statistical Learning Theory and Applications** | Tomaso Poggio, Lorenzo Rosasco, Sasha Rakhlin          | [9.520/6.860](https://cbmm.mit.edu/lh-9-520)                 | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLyGKBDfnk-iAtLO6oLW4swMiQGz4f2OPY) | F2018 |
 | 18.  | **Machine Learning and Data Mining**             | Mike Gelbart, University of British Columbia           | [CPSC-340](https://ubc-cs.github.io/cpsc340/)                | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b) | 2018  |
 | 19.  | **Foundations of Machine Learning**              | David Rosenberg, Bloomberg                             | [FOML](https://bloomberg.github.io/foml/#home)               | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI) | 2018  |
+| 20.  | **Advanced Machine Learning**                    | Joachim Buhmann, ETH Zuerich                           | [AML-18](https://ml2.inf.ethz.ch/courses/aml/)               | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1x68-5GEzAflTBQrSoKcAJ) | 2018  |
 |      |                                                  |                                                        |                                                              |                                                              |       |
 |      |                                                  |                                                        |                                                              |                                                              |       |
 
@@ -157,14 +158,15 @@
 
 -------------------------------------------------
 
-| S.No | Course Name                                     | University/Instructor(s)                   | Course WebPage                                               | Lecture Videos                                               | Year |
-| ---- | ----------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 1.   | **Probabilistic Graphical Models**              | Many Legends, MPI-IS                       | [MLSS-Tuebingen](http://mlss.tuebingen.mpg.de/2013/2013/speakers.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2013 |
-| 2.   | **Probabilistic Modeling and Machine Learning** | Zoubin Ghahramani, University of Cambridge | [WUST-Wroclaw](https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLwUOK5j_XOsdfVAGKErx9HqnrVZIuRbZ2) | 2013 |
-| 3.   | **Probabilistic Graphical Models**              | Eric Xing, CMU                             | [10-708](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-) | 2014 |
-| 4.   | **Probabilistic Graphical Models**              | Nicholas Zabaras, University of Notre Dame | [PGM](https://www.zabaras.com/probabilistic-graphical-models) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM) | 2018 |
-|      |                                                 |                                            |                                                              |                                                              |      |
-|      |                                                 |                                            |                                                              |                                                              |      |
+| S.No | Course Name                                                  | University/Instructor(s)                   | Course WebPage                                               | Lecture Videos                                               | Year |
+| ---- | ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| 1.   | **Probabilistic Graphical Models**                           | Many Legends, MPI-IS                       | [MLSS-Tuebingen](http://mlss.tuebingen.mpg.de/2013/2013/speakers.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLL0GjJzXhAWTRiW_ynFswMaiLSa0hjCZ3) | 2013 |
+| 2.   | **Probabilistic Modeling and Machine Learning**              | Zoubin Ghahramani, University of Cambridge | [WUST-Wroclaw](https://www.ii.pwr.edu.pl/~gonczarek/zoubin.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLwUOK5j_XOsdfVAGKErx9HqnrVZIuRbZ2) | 2013 |
+| 3.   | **Probabilistic Graphical Models**                           | Eric Xing, CMU                             | [10-708](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-) | 2014 |
+| 4.   | **Learning with Structured Data: An Introduction to Probabilistic Graphical Models** | Christoph Lampert, IST Austria             | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLEqoHzpnmTfA0wc1JxjoVVOrJlx8W0rGf) | 2016 |
+| 5.   | **Probabilistic Graphical Models**                           | Nicholas Zabaras, University of Notre Dame | [PGM](https://www.zabaras.com/probabilistic-graphical-models) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM) | 2018 |
+|      |                                                              |                                            |                                                              |                                                              |      |
+|      |                                                              |                                            |                                                              |                                                              |      |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
@@ -251,6 +253,7 @@
 | 13.  | **Deep\|Bayes**                                         | Many Legends, HSE Moscow                                 | [DeepBayes.ru](http://deepbayes.ru/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018      |
 | 14.  | **New Deep Learning Techniques**                        | Many Legends, IPAM UCLA                                  | [IPAM-Workshop](https://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN) | 2018      |
 | 15.  | **Machine Learning Advances and Applications Seminar**  | Lots of Legends, Fields Institute, University of Toronto | [MLASS](http://www.fields.utoronto.ca/activities/18-19/machine-learning) | [Video Lectures](http://www.fields.utoronto.ca/video-archive/event/2681) | 2018-2019 |
+| 16.  | **MIFODS- ML, Stats, ToC seminar**                      | Lots of Legends, MIT                                     | [MIFODS-seminar](http://mifods.mit.edu/seminar.php)          | [Lecture-videos](http://mifods.mit.edu/seminar.php)          | 2018-2019 |
 |      |                                                         |                                                          |                                                              |                                                              |           |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
