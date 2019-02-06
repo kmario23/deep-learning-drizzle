@@ -16,7 +16,9 @@
  - ### Automatic Speech Recognition [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#speaking_head-automatic-speech-recognition-speech_balloon-thought_balloon)  
  - ### Modern Computer Vision [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#fire-modern-computer-vision-camera_flash-movie_camera) 
  - ### Boot Camps or Summer Schools [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#star2-boot-camps-or-summer-schools-maple_leaf) 
- - ### Bird's Eye view of Artificial (General) Intelligence [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle) 
+ - ### Bird's Eye view of Artificial (General) Intelligence [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle)
+ 
+-------------------------------------------------
 -------------------------------------------------
 
 ## :tada: Deep Learning :confetti_ball: :balloon: 
@@ -61,6 +63,7 @@
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
+-------------------------------------------------
 
 ### :cupid: Machine Learning Fundamentals :cyclone: :boom: 
 
@@ -80,6 +83,7 @@
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
+-------------------------------------------------
 
 ### :cupid: Optimization for Machine Learning :cyclone: :boom: 
 
@@ -96,6 +100,7 @@
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
+-------------------------------------------------
 -------------------------------------------------
 
 ### :cupid: General Machine Learning :cyclone: :boom: 
@@ -132,6 +137,7 @@
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
+-------------------------------------------------
 
 ### :balloon: Reinforcement Learning :hotsprings: :video_game: 
 
@@ -156,6 +162,7 @@
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
+-------------------------------------------------
 
 ### :loudspeaker: Probabilistic Graphical Models - *(Foundation for Graph Neural Networks)* :sparkles: 
 
@@ -173,6 +180,7 @@
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
+-------------------------------------------------
 -------------------------------------------------
 
 ### :hibiscus: Natural Language Processing - *(More Applied)* :cherry_blossom: :sparkling_heart: 
@@ -193,6 +201,7 @@
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
 -------------------------------------------------
+-------------------------------------------------
 
 ###  :speaking_head: Automatic Speech Recognition :speech_balloon: :thought_balloon:
 
@@ -211,6 +220,7 @@
 
 
 
+-------------------------------------------------
 -------------------------------------------------
 
 ### :fire: Modern Computer Vision :camera_flash: :movie_camera: 
@@ -235,6 +245,7 @@
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
+-------------------------------------------------
 -------------------------------------------------
 
 ### :star2: Boot Camps or Summer Schools :maple_leaf:
@@ -264,6 +275,7 @@
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
 
 -------------------------------------------------
+-------------------------------------------------
 
 ### :bird: Bird's Eye view of A(G)I :eagle:
 
@@ -277,6 +289,7 @@
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
 
+-------------------------------------------------
 -------------------------------------------------
 
 ### To-Do :running:
@@ -299,6 +312,7 @@
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
+-------------------------------------------------
 -------------------------------------------------
 
 ### Contributions :pray:
