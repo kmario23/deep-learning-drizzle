@@ -248,11 +248,11 @@
 ### :bird: Bird's Eye view of A(G)I :eagle:
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 
-| S.No | Course Name                         | University/Instructor(s) | Course WebPage                       | Lecture Videos                                               | Year      |
-| ---- | ----------------------------------- | ------------------------ | ------------------------------------ | ------------------------------------------------------------ | --------- |
-| 1.   | **Artificial General Intelligence** | Lots of Legends, MIT     | [6.S099-AGI](https://agi.mit.edu/)   | [Lecture-Videos](https://agi.mit.edu/)                       | 2018-2019 |
-| 2.   | **AI Podcast**                      | Lots of Legends, MIT     | [AI-Pod](https://lexfridman.com/ai/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) | 2018-2019 |
-|      |                                     |                          |                                      |                                                              |           |
+| S.No | Course Name                         | University/Instructor(s) | Course WebPage                                               | Lecture Videos                                               | Year      |
+| ---- | ----------------------------------- | ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
+| 1.   | **Artificial General Intelligence** | Lots of Legends, MIT     | [6.S099-AGI](https://agi.mit.edu/)                           | [Lecture-Videos](https://agi.mit.edu/)                       | 2018-2019 |
+| 2.   | **AI Podcast**                      | Lots of Legends, MIT     | [AI-Pod](https://lexfridman.com/ai/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) | 2018-2019 |
+| 3.   | **NYU - AI Seminars**               | Lots of Legends, NYU     | [modern-AI](https://engineering.nyu.edu/academics/departments/electrical-and-computer-engineering/ece-seminar-series/modern-artificial) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLhwo5ntex8iY9xhpSwWas451NgVuqBE7U) | 2017-now  |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
 
