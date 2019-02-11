@@ -130,6 +130,7 @@
 | 26.  | **Introduction to Artificial Intellige**         | Pieter Abbeel, Dan Klein, UC Berkeley                  | [CS 188](https://inst.eecs.berkeley.edu/~cs188/fa18/)        | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL7k0r4t5c108AZRwfW-FhnkZ0sCKBChLH) | 2018  |       |
 |      |                                                  |                                                        |                                                              |                                                              |       |
 |      |                                                  |                                                        |                                                              |                                                              |       |
+|      |                                                  |                                                        |                                                              |                                                              |       |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
