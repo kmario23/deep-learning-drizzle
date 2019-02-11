@@ -222,6 +222,7 @@
 | 9.   | **Variational Methods for Computer Vision**      | Daniel Cremers, TUM                                    | [VMCV](https://vision.in.tum.de/teaching/ws2016/vmcv2016)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI) | 2017      |
 | 10.  | **Winter School on Computer Vision**             | Lots of Legends, Israel Institute for Advanced Studies | [WS-CV](http://www.as.huji.ac.il/cse)                        | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTn74Qx5mPsSniA5tt6W-o0OGYEeKScug) | 2017      |
 | 11.  | **Deep Learning for Visual Computing**           | Debdoot Sheet, IIT-Kgp                                 | [Nptel](https://onlinecourses.nptel.ac.in/noc18_ee08/preview)  [Notebooks](https://github.com/iitkliv/dlvcnptel) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLuv3GM6-gsE1Biyakccxb3FAn4wBLyfWf) | 2018      |
+| 12.  | **Modern Robotics**                              | Kevin Lynch, Northwestern Robotics                     | [modern-robot](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx) | 2018      |
 |      |                                                  |                                                        |                                                              |                                                              |           |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
