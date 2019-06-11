@@ -19,8 +19,9 @@
 |                                                              |                                                              |
 | **Reinforcement Learning**  [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#balloon-reinforcement-learning-hotsprings-video_game) | **Boot Camps or Summer Schools** [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#star2-boot-camps-or-summer-schools-maple_leaf) |
 |                                                              |                                                              |
-| **Graph Neural Networks** [:arrow_heading_down: ](https://github.com/kmario23/deep-learning-drizzle#tada-graph-neural-networks-geometric-dl-confetti_ball-balloon) | **Bird's-eye view of Artificial Intelligence** [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle) |
+| **Bayesian Deep Learning** [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#game_die-bayesian-deep-learning-spades-gem)            | **Medical Imaging** [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#movie_camera-medical-imaging-camera-video_camera)                   |
 |                                                              |                                                              |
+| **Graph Neural Networks** [:arrow_heading_down: ](https://github.com/kmario23/deep-learning-drizzle#tada-graph-neural-networks-geometric-dl-confetti_ball-balloon) | **Bird's-eye view of Artificial Intelligence** [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle) |
 |                                                              |                                                              |
 
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
@@ -200,6 +201,34 @@
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
 
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+## :game_die: Bayesian Deep Learning :spades: :gem: 
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+
+| S.No | Course Name                                         | University/Instructor(s)          | Course WebPage | Lecture Videos                                               | Year     |
+| ---- | --------------------------------------------------- | --------------------------------- | -------------- | ------------------------------------------------------------ | -------- |
+| 1.   | **Bayesian Neural Networks, Variational Inference** | Lots of Legends                   | `None`         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLM4Pv4KYYzGwUB4bFy183hwGhpL9ytvA1) | 2014-now |
+| 2.   | **Variational Inference**                           | Chieh Wu, Northeastern University | `None`         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdk2fd27CQzSd1sQ3kBYL4vtv6GjXvPsE) | 2015     |
+|      |                                                     |                                   |                |                                                              |          |
+|      |                                                     |                                   |                |                                                              |          |
+
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
+
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+## :movie_camera: Medical Imaging :camera: :video_camera: 
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+
+| S.No | Course Name                                 | University/Instructor(s) | Course WebPage                                             | Lecture Videos                                               | Year |
+| ---- | ------------------------------------------- | ------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------ | ---- |
+| 1.   | **Medical Imaging Summer School**           | Lots of Legends, Sicily  | [MISS-14](http://iplab.dmi.unict.it/miss14/programme.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL_VeUGLULXQtvcCdAgmvKoJ1k0Ajhz-Qu) | 2014 |
+| 2.   | **Biomedical Image Analysis Summer School** | Lots of Legends, Paris   | `None`                                                     | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgSHH6boFf5uJAUT4ZRiAZc_ofXolkAGK) | 2015 |
+| 3.   | **Medical Imaging Summer School**           | Lots of Legends, Sicily  | [MISS-16](http://iplab.dmi.unict.it/miss16/programme.html) | `#TO-DO`                                                     | 2016 |
+| 4.   | **Medical Imaging Summer School**           | Lots of Legends, Sicily  | [MISS-18](http://iplab.dmi.unict.it/miss/programme.htm)    | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL_VeUGLULXQux1dV4iA3XuMX6AueJmGGa) | 2018 |
+|      |                                             |                          |                                                            |                                                              |      |
+|      |                                             |                          |                                                            |                                                              |      |
+
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
+
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 ## :tada: Graph Neural Networks (Geometric DL) :confetti_ball: :balloon: 
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 
@@ -358,17 +387,11 @@
 
 :white_large_square: Computer Vision courses which are DL & ML heavy
 
-:white_large_square: NLP courses which are DL, RL, & ML heavy
-
 :white_large_square: Speech recognition courses which are DL heavy
 
-:white_large_square: Structured Courses on Geometric, Graph Neural Networks,
-
-:white_large_square: Section on DL/RL/ML Summer School Lectures
+:white_large_square: Structured Courses on Geometric, Graph Neural Networks
 
 :white_large_square: Section on Autonomous Vehicles
-
-:white_large_square: Section on Bayesian Deep Learning
 
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 
