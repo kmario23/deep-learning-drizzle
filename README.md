@@ -72,6 +72,7 @@
 | 38.  | **Deep Unsupervised Learning**                        | Pieter Abbeel, UC Berkeley                     | [CS294-158](https://sites.google.com/view/berkeley-cs294-158-sp19/home) | [YouTube-Lectures](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos) | S2019           |
 | 39.  | **Machine Learning**                                  | Peter Bloem, Vrije Universiteit Amsterdam      | [MLVU](https://mlvu.github.io/)                              | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLCof9EqayQgupldnTvqNy_BThTcME5r93) | 2019            |
 | 40.  | **Deep Learning on Computational Accelerators**       | Alex Bronstein and Avi Mendelson, Technion     | [CS236605](https://vistalab-technion.github.io/cs236605/lectures/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLM0a6Z788YAa_WCy_V-q9NrGm5qQegZR5) | S2019           |
+| 41.  | **Introduction to Deep Learning**       | Bhiksha Raj and many others, CMU     | [11-785](http://deeplearning.cs.cmu.edu/) | [YouTube-Lectures](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA) | F2019           |
 |      |                                                       |                                                |                                                              |                                                              |                 |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
