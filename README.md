@@ -219,12 +219,14 @@
 ## :game_die: Bayesian Deep Learning :spades: :gem: 
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 
-| S.No | Course Name                                         | University/Instructor(s)          | Course WebPage | Lecture Videos                                               | Year     |
-| ---- | --------------------------------------------------- | --------------------------------- | -------------- | ------------------------------------------------------------ | -------- |
-| 1.   | **Bayesian Neural Networks, Variational Inference** | Lots of Legends                   | `None`         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLM4Pv4KYYzGwUB4bFy183hwGhpL9ytvA1) | 2014-now |
-| 2.   | **Variational Inference**                           | Chieh Wu, Northeastern University | `None`         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdk2fd27CQzSd1sQ3kBYL4vtv6GjXvPsE) | 2015     |
-|      |                                                     |                                   |                |                                                              |          |
-|      |                                                     |                                   |                |                                                              |          |
+| S.No | Course Name                                         | University/Instructor(s)          | Course WebPage                      | Lecture Videos                                               | Year     |
+| ---- | --------------------------------------------------- | --------------------------------- | ----------------------------------- | ------------------------------------------------------------ | -------- |
+| 1.   | **Bayesian Neural Networks, Variational Inference** | Lots of Legends                   | `None`                              | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLM4Pv4KYYzGwUB4bFy183hwGhpL9ytvA1) | 2014-now |
+| 2.   | **Variational Inference**                           | Chieh Wu, Northeastern University | `None`                              | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdk2fd27CQzSd1sQ3kBYL4vtv6GjXvPsE) | 2015     |
+| 3.   | **Deep Learning and Bayesian Methods**              | Lots of Legends, HSE Moscow       | [DLBM-SS](http://deepbayes.ru/2018) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62) | 2018     |
+| 4.   | **Deep Learning and Bayesian Methods**              | Lots of Legends, HSE Moscow       | [DLBM-SS](http://deepbayes.ru/)     | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW) | 2019     |
+|      |                                                     |                                   |                                     |                                                              |          |
+|      |                                                     |                                   |                                     |                                                              |          |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
 
@@ -383,7 +385,9 @@
 | 36. | **Deep Learning Boot Camp** | Lots of Legends, Simons Institute, Berkeley | [DLBC-19](https://simons.berkeley.edu/workshops/schedule/10624) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre12c2Il9mNX0Cmp9Z4oFNrQh) | 2019 |
 | 37. | **Frontiers of Deep Learning** | Lots of Legends, Simons Institute, Berkeley | [FoDL-19](https://simons.berkeley.edu/workshops/schedule/10627) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre11ekU7g-Z_qsvjDD8cT-hi9) | 2019 |
 | 38. | **Mathematics of data: Structured representations for sensing, approximation and learning** | Lots of Legends, The Alan Turing Institute, London | [MoD-19](https://www.turing.ac.uk/sites/default/files/2019-05/agenda_9_3.pdf) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLuD_SqLtxSdX_w1Ztexpzl_EJgFQSkWez) | 2019 |
-| | | | | | |
+| 39. | **Deep Learning and Bayesian Methods** | Lots of Legends, HSE Moscow | [DLBM-SS](http://deepbayes.ru/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW) | 2019 |
+| 40. | **The Mathematics of Deep Learning and Data Science** | Lots of Legends, Isaac Newton Institute, Cambridge | [MoDL-DS](https://gateway.newton.ac.uk/event/ofbw46) | [Lecture-Videos](https://gateway.newton.ac.uk/event/ofbw46/programme) | 2019 |
+|  |  |  |  |  |  |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
