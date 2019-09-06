@@ -388,6 +388,7 @@
 | 39. | **Deep Learning and Bayesian Methods** | Lots of Legends, HSE Moscow | [DLBM-SS](http://deepbayes.ru/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW) | 2019 |
 | 40. | **The Mathematics of Deep Learning and Data Science** | Lots of Legends, Isaac Newton Institute, Cambridge | [MoDL-DS](https://gateway.newton.ac.uk/event/ofbw46) | [Lecture-Videos](https://gateway.newton.ac.uk/event/ofbw46/programme) | 2019 |
 |  |  |  |  |  |  |
+| 41. | **Geometry of Deep Learning** | Lots of Legends, MSR Redmond | [GoDL](https://www.microsoft.com/en-us/research/event/ai-institute-2019) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d) | 2019 |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
