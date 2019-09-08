@@ -75,7 +75,7 @@
 | 40.  | **Deep Learning on Computational Accelerators**       | Alex Bronstein and Avi Mendelson, Technion     | [CS236605](https://vistalab-technion.github.io/cs236605/lectures/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLM0a6Z788YAa_WCy_V-q9NrGm5qQegZR5) | S2019           |
 |      |                                                       |                                                |                                                              |                                                              |                 |
 | 41.  | **Introduction to Deep Learning**                     | Bhiksha Raj and many others, CMU               | [11-785](http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Spring.2019/www) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPzNdZPX4p0lVi6AcDXBofuf) | S2019           |
-| 42.  | **Introduction to Deep Learning**                     | Bhiksha Raj and many others, CMU               | [11-785](https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2019/www) | `TO-DO`                                                      | F2019           |
+| 42.  | **Introduction to Deep Learning**                     | Bhiksha Raj and many others, CMU               | [11-785](https://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2019/www) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPwz13VqV1PaMXF6V6dYdEsj) <br> [Recitations](https://www.youtube.com/playlist?list=PLp-0K3kfddPxf4T59JEQKv5UanLPVsxzz) | F2019           |
 | 43.  | **UvA Deep Learning**                                 | Efstratios Gavves, University of Amsterdam     | [UvA-DLC](https://uvadlc.github.io/)                         | [Lecture-Videos](https://uvadlc.github.io/#lectures)         | 2019            |
 |      |                                                       |                                                |                                                              |                                                              |                 |
 |      |                                                       |                                                |                                                              |                                                              |                 |
@@ -389,6 +389,8 @@
 | 40. | **The Mathematics of Deep Learning and Data Science** | Lots of Legends, Isaac Newton Institute, Cambridge | [MoDL-DS](https://gateway.newton.ac.uk/event/ofbw46) | [Lecture-Videos](https://gateway.newton.ac.uk/event/ofbw46/programme) | 2019 |
 |  |  |  |  |  |  |
 | 41. | **Geometry of Deep Learning** | Lots of Legends, MSR Redmond | [GoDL](https://www.microsoft.com/en-us/research/event/ai-institute-2019) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d) | 2019 |
+| 42. | **Deep Learning for Science School** | Many folks, LBNL, Berkeley | [DLfSS](https://dl4sci-school.lbl.gov/agenda) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL20S5EeApOSvfvEyhCPOUzU7zkBcR5-eL) | 2019 |
+| 43. | **Emerging Challenges in Deep Learning** | Lots of Legends, Simons Institute, Berkeley | [ECDL](https://simons.berkeley.edu/workshops/schedule/10629) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre10BpafDrv0fg2VNUweWXWVd) | 2019 |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
