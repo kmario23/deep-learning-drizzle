@@ -396,6 +396,7 @@
 | 41. | **Geometry of Deep Learning** | Lots of Legends, MSR Redmond | [GoDL](https://www.microsoft.com/en-us/research/event/ai-institute-2019) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe30qq36It2XCljxc340O_d) | 2019 |
 | 42. | **Deep Learning for Science School** | Many folks, LBNL, Berkeley | [DLfSS](https://dl4sci-school.lbl.gov/agenda) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL20S5EeApOSvfvEyhCPOUzU7zkBcR5-eL) | 2019 |
 | 43. | **Emerging Challenges in Deep Learning** | Lots of Legends, Simons Institute, Berkeley | [ECDL](https://simons.berkeley.edu/workshops/schedule/10629) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre10BpafDrv0fg2VNUweWXWVd) | 2019 |
+| 44. | **Full Stack Deep Learning** | Pieter Abbeel and many others, UC Berkeley | [FSDL-M19](https://fullstackdeeplearning.com/march2019) | [YouTube-Lectures-Day-1](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcf3Hc4VMEVBlH8HZm_NbeB) <br/> [Day-2](https://www.youtube.com/playlist?list=PL1T8fO7ArWlf6TWwdstb-PcwlubnlrKrm) | 2019 |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
