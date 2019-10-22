@@ -216,7 +216,7 @@
 | 3.   | **Probabilistic Graphical Models**                           | Eric Xing, CMU                             | [10-708](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-) | 2014 |
 | 4.   | **Learning with Structured Data: An Introduction to Probabilistic Graphical Models** | Christoph Lampert, IST Austria             | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLEqoHzpnmTfA0wc1JxjoVVOrJlx8W0rGf) | 2016 |
 | 5.   | **Probabilistic Graphical Models**                           | Nicholas Zabaras, University of Notre Dame | [PGM](https://www.zabaras.com/probabilistic-graphical-models) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM) | 2018 |
-| 6.   | **Probabilistic Graphical Models**                           | Eric Xing, CMU                             | [10-708](https://sailinglab.github.io/pgm-spring-2019/)      | [Lecture-Videos](https://sailinglab.github.io/pgm-spring-2019/lectures) | 2019 |
+| 6.   | **Probabilistic Graphical Models**                           | Eric Xing, CMU                             | [10-708](https://sailinglab.github.io/pgm-spring-2019/)      | [Lecture-Videos](https://sailinglab.github.io/pgm-spring-2019/lectures) <br> [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn) | 2019 |
 |      |                                                              |                                            |                                                              |                                                              |      |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
@@ -400,6 +400,8 @@
 | 43. | **Deep Learning for Science School** | Many folks, LBNL, Berkeley | [DLfSS](https://dl4sci-school.lbl.gov/agenda) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL20S5EeApOSvfvEyhCPOUzU7zkBcR5-eL) | 2019 |
 | 44. | **Emerging Challenges in Deep Learning** | Lots of Legends, Simons Institute, Berkeley | [ECDL](https://simons.berkeley.edu/workshops/schedule/10629) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgKuh-lKre10BpafDrv0fg2VNUweWXWVd) | 2019 |
 | 45. | **Full Stack Deep Learning** | Pieter Abbeel and many others, UC Berkeley | [FSDL-M19](https://fullstackdeeplearning.com/march2019) | [YouTube-Lectures-Day-1](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcf3Hc4VMEVBlH8HZm_NbeB) <br/> [Day-2](https://www.youtube.com/playlist?list=PL1T8fO7ArWlf6TWwdstb-PcwlubnlrKrm) | 2019 |
+| 46. | **Deep Learning and Reinforcement Learning Summer School** | Lots of Legends, AMII, Edmonton, Canada | [DLRL-2019](https://dlrlsummerschool.ca/past-years) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLKlhhkvvU8-aXmPQZNYG_e-2nTd0tJE8v) | 2019 |
+|  |  |  |  |  |  |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
