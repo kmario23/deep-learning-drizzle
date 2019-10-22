@@ -1,3 +1,4 @@
+
 # :balloon: :tada: Deep Learning Drizzle :confetti_ball: :balloon:
 
 :books: [**"Read enough so you start developing intuitions and then trust your intuitions and go for it!"** ](https://www.deeplearning.ai/hodl-geoffrey-hinton/) :books:  ​<br/>  Prof. Geoffrey Hinton, University of Toronto
@@ -22,6 +23,8 @@
 | **Bayesian Deep Learning** [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#game_die-bayesian-deep-learning-spades-gem)            | **Medical Imaging** [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#movie_camera-medical-imaging-camera-video_camera)                   |
 |                                                              |                                                              |
 | **Graph Neural Networks** [:arrow_heading_down: ](https://github.com/kmario23/deep-learning-drizzle#tada-graph-neural-networks-geometric-dl-confetti_ball-balloon) | **Bird's-eye view of Artificial Intelligence** [:arrow_heading_down:](https://github.com/kmario23/deep-learning-drizzle#bird-birds-eye-view-of-agi-eagle) |
+|                                                              |                                                              |:loudspeaker: AI Podcast :speaker:
+| **AI Podcast** [:arrow_heading_down: ](https://github.com/kmario23/deep-learning-drizzle#loudspeaker-ai-podcast-speaker) | **-----**  |
 |                                                              |                                                              |
 
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
@@ -419,6 +422,20 @@
 |      |                                        |                                                          |                                                              |                                                              |           |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
+
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+### :loudspeaker: AI Podcast :speaker:
+:heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
+
+| S.No | Podcast Name                            | Provider                                 | Podcast Link |
+| ---- | -------------------------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| 1.   | **The AI podcast**    | Nvidia                                     | [Spotify](https://open.spotify.com/show/4TB4pnynaiZ6YHoKmyVN0L) <br> [Google Play](https://play.google.com/music/m/I4kyn74qfrsdhrm35mcrf3igxzm?t=The_AI_Podcast) <br> [iTunes](https://podcasts.apple.com/us/podcast/the-ai-podcast/id1186480811)      |
+| 2.   | **Data Skeptic**    | Data Skeptic                                     | [Spotify](https://open.spotify.com/show/1BZN7H3ikovSejhwQTzNm4) <br> [iTunes](https://podcasts.apple.com/us/podcast/data-skeptic/id890348705)      |
+| 2.   | **DeepMind: The Podcast**    | Google Deep Mind                                     | [Spotify](https://open.spotify.com/show/39fjU5Q5L5UecTCRMeqjwb) <br> [iTunes](https://podcasts.apple.com/gb/podcast/deepmind-the-podcast/id1476316441) <br>[Google Podcast](https://podcasts.google.com/?feed=aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwMDI0ODIucnNz&hl=en-IN)      |
+|      |                                        |                                                          |                                                              |                                                              |           |
+
+[Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
+
 
 :heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign::heavy_minus_sign:
 ### To-Do :running:
