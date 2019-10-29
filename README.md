@@ -79,7 +79,7 @@
 | 43.  | **UvA Deep Learning**                                 | Efstratios Gavves, University of Amsterdam     | [UvA-DLC](https://uvadlc.github.io/)                         | [Lecture-Videos](https://uvadlc.github.io/#lectures)         | 2019            |
 | 44.  | **Neural Networks**                                   | Neil Rhodes, Harvey Mudd College               | [CS-152](https://www.cs.hmc.edu/~rhodes/cs152/schedule.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgEuVSRbAI9UIQSHGy4l01laA_12YOqEj) | F2019           |
 | 45.  | **Deep Learning**                                     | Thomas Hofmann, ETH Zürich                     | [DAL-DL](http://www.da.inf.ethz.ch/teaching/2019/DeepLearning) | [Lecture-Videos](https://video.ethz.ch/lectures/d-infk/2019/autumn/263-3210-00L.html) | F2019           |
-|      |                                                       |                                                |                                                              |                                                              |                 |
+| 46.  | **Deep Learning**                                     | Milan Straka, Charles University               | [NPFL114](https://ufal.mff.cuni.cz/courses/npfl114) | [Lecture-Videos](https://ufal.mff.cuni.cz/courses/npfl114/1718-summer) | S2019 |
 |      |                                                       |                                                |                                                              |                                                              |                 |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
