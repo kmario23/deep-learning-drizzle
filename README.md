@@ -103,6 +103,8 @@
 | 11.  | **Multivariable Calculus**                                   | S.K. Gupta and Sanjeev Kumar, IIT-Roorkee             | [MVC](https://nptel.ac.in/syllabus/111107108/)               | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTiQtK374NzhFOcQkWmJ71vx) | 2018       |
 | 12.  | **Engineering Probability**                                  | Rich Radke, Rensselaer Polytechnic Institute          | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BU1dN2G6ncyiMbML7OXh_Jx) | 2018       |
 | 13.  | **Matrix Methods in Data Analysis, Signal Processing, and Machine Learning** | Gilbert Strang, MIT                                   | [18.065](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) | S2018      |
+| 14.  | **Probabilistic Systems Analysis and Applied Probability** | John Tsitsiklis, MIT           
+| [6.041](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/) | [YouTube-Lectures](https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)  | 2010               |                        
 |      |                                                              |                                                       |                                                              |                                                              |            |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
