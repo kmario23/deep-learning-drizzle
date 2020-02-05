@@ -257,7 +257,7 @@
 | 3.   | **Medical Imaging Summer School**           | Lots of Legends, Sicily                     | [MISS-16](http://iplab.dmi.unict.it/miss16/programme.html)   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTRCr47yTx5iXIYSneX3LKf16upaw59wa) | 2016 |
 | 4.   | **OPtical and UltraSound imaging - OPUS**   | Lots of Legends, Université de Lyon, France | [OPUS'16](https://opus2016lyon.sciencesconf.org/resource/page/id/2) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL95ayoVLX8GdUKbxu-R9WqRWwzdWcKjti) | 2016 |
 | 5.   | **Medical Imaging Summer School**           | Lots of Legends, Sicily                     | [MISS-18](http://iplab.dmi.unict.it/miss/programme.htm)      | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL_VeUGLULXQux1dV4iA3XuMX6AueJmGGa) | 2018 |
-|      |                                             |                                             |                                                              |                                                              |      |
+| 6.   | **Deep Learning and Medical Applications**  | Lots of Legends, IPAM, UCLA                 | [DLM-20](https://www.ipam.ucla.edu/programs/workshops/deep-learning-and-medical-applications/?tab=schedule) | [Lecture-Videos](https://www.ipam.ucla.edu/programs/workshops/deep-learning-and-medical-applications/?tab=schedule) | 2020 |
 |      |                                             |                                             |                                                              |                                                              |      |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
@@ -418,7 +418,8 @@
 | 47. | **Deep Learning and Reinforcement Learning Summer School** | Lots of Legends, AMII, Edmonton, Canada | [DLRL-2019](https://dlrlsummerschool.ca/past-years) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLKlhhkvvU8-aXmPQZNYG_e-2nTd0tJE8v) | 2019 |
 | 48. | **Mathematics of Machine Learning** - Summer Graduate School | Lots of Legends, University of Washington | [MoML-SGS](http://www.msri.org/summer_schools/866#schedule) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9) | 2019 |
 | 49. | **Workshop on Theory of Deep Learning: Where next?** | Lots of Legends, IAS, Princeton University | [WTDL](https://www.math.ias.edu/wtdl) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ5dqqg_S-rgJqSFeH4DQqFQ) | 2019 |
-|  | | | | | |
+| 50. | **Learning under complex structure** | Lots of Legends, MIT | [LUCS](https://mifods.mit.edu/complex.php) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLM4Pv4KYYzGwhIHcaY6zYR7M9hhFO4Vud) | 2020 |
+| | | | | | |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
