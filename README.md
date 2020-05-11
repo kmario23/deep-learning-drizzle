@@ -90,12 +90,14 @@
 | 53. | **Deep Learning** | Yann LeCun and Alfredo Canziani, NYU | [DS-GA 1008](https://atcold.github.io/pytorch-Deep-Learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | S2020 |
 | 54. | **Introduction to Deep Learning** | Bhiksha Raj, CMU | [11-785](https://deeplearning.cs.cmu.edu/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) | S2020 |
 | 55. | **Deep Unsupervised Learning** | Pieter Abbeel, UC Berkeley | [CS294-158](https://sites.google.com/view/berkeley-cs294-158-sp20) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP) | S2020 |
-| 56. | **Deep Learning** | Andreas Maier, Friedrich-Alexander-Universität Erlangen-Nürnberg | [DL-2020](https://www.video.uni-erlangen.de/course/id/925) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj) <br/>[Lecture-Videos](https://www.video.uni-erlangen.de/course/id/925) | SS2020 |
-| 57. | **Machine Learning** | Peter Bloem, Vrije Universiteit Amsterdam | [VUML](https://mlvu.github.io/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLCof9EqayQgthR7IViXkAkUwel_rhxGYM) | S2020 |
-| 58. | **Deep Learning (with PyTorch)** | Alfredo Canziani and Yann LeCun, NYU | [DS-GA 1008](https://atcold.github.io/pytorch-Deep-Learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | S2020 |
+| 56. | **Machine Learning** | Peter Bloem, Vrije Universiteit Amsterdam | [VUML](https://mlvu.github.io/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLCof9EqayQgthR7IViXkAkUwel_rhxGYM) | S2020 |
+| 57. | **Deep Learning (with PyTorch)** | Alfredo Canziani and Yann LeCun, NYU | [DS-GA 1008](https://atcold.github.io/pytorch-Deep-Learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq) | S2020 |
+| 58. | **Introduction to Deep Learning and Generative Models** | Sebastian Raschka, UW-Madison | [Stat453](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2020/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTKMiZHVd_2JkR6QtQEnml7swCnFBtq4P) | S2020 |
+| 59. | **Deep Learning** | Andreas Maier, FAU Erlangen-Nürnberg | [DL-2020](https://www.video.uni-erlangen.de/course/id/925) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLpOGQvPCDQzvgpD3S0vTy7bJe2pf_yJFj) <br/>[Lecture-Videos](https://www.video.uni-erlangen.de/course/id/925) | SS2020 |
+| 60. | **Introduction to Deep Learning** | Laura Leal-Taixé and Matthias Niessner, TU-München | [I2DL-IN2346](https://dvl.in.tum.de/teaching/i2dl-ss20/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e) | SS2020 |
 |  | | | | | |
-|  | | | | | |
-|  | | | | | |
+| 61. | **Deep Learning** | Sargur Srihari, SUNY-Buffalo | [CSE676](https://cedar.buffalo.edu/~srihari/CSE676/) | [YouTube-Lectures-P1](https://www.youtube.com/playlist?list=PLmx4utxjUQD70k_NzeiSIXf30m54T_e1h) <br/>[YouTube-Lectures-P2](https://www.youtube.com/channel/UCUm7yUmVJyAbYh_0ppJ4H-g/videos) | 2020 |
+| | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
