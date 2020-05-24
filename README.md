@@ -216,6 +216,11 @@
 |      |                                                              |                                                         |                                                              |                                                              |           |
 | 51.  | **Statistical Machine Learning**                             | Ulrike von Luxburg, Eberhard Karls Universität Tübingen | [Stat-ML](https://www.tml.cs.uni-tuebingen.de/teaching/2020_statistical_learning/index.php) | [YouTube-Lectures](https://www.youtube.com/channel/UCupmCsCA5CFXmm31PkUhEbA/videos) | SS2020    |
 |      |                                                              |                                                         |                                                              |                                                              |           |
+| 52.  | **Introduction to Machine Learning**                             | Piyush Rai | [CS771A](https://www.cse.iitk.ac.in/users/piyush/courses/ml_autumn18/index.html) | [None] | AS20218    |
+|      |                                                              |                                                         |                                                              |                                                              |           |
+| 53.  | **Introductory Applied Machine Learning**                             | Victor Lavrenko | [IAML](https://www.inf.ed.ac.uk/teaching/courses/iaml/) | [Youtube-Lectures](https://www.youtube.com/user/victorlavrenko/playlists?view=50&sort=dd&shelf_id=10) | 2015    |
+|      |                                                              |                                                         |                                                              |                                                              |           |
+
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
 
