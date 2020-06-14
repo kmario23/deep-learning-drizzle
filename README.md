@@ -97,6 +97,8 @@
 | 60. | **Introduction to Deep Learning** | Laura Leal-Taixé and Matthias Niessner, TU-München | [I2DL-IN2346](https://dvl.in.tum.de/teaching/i2dl-ss20/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e) | SS2020 |
 |  | | | | | |
 | 61. | **Deep Learning** | Sargur Srihari, SUNY-Buffalo | [CSE676](https://cedar.buffalo.edu/~srihari/CSE676/) | [YouTube-Lectures-P1](https://www.youtube.com/playlist?list=PLmx4utxjUQD70k_NzeiSIXf30m54T_e1h) <br/>[YouTube-Lectures-P2](https://www.youtube.com/channel/UCUm7yUmVJyAbYh_0ppJ4H-g/videos) | 2020 |
+| 62. | **Deep Learning Lecture Series** | Lots of Legends, DeepMind x UCL, London | `None` | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | 2020 |
+|  |  |  |  |  |  |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
@@ -332,6 +334,7 @@
 | 9.   | **Natural Language Processing with Deep Learning**  | Abigail See, Chris Manning, Richard Socher, Stanford University | [CS224n](http://web.stanford.edu/class/cs224n/)              | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) | 2019      |
 | 10.  | **Natural Language Understanding**                  | Bill MacCartney and Christopher Potts                        | [CS224U](https://web.stanford.edu/class/cs224u)              | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) | S2019     |
 |      |                                                     |                                                              |                                                              |                                                              |           |
+| 11.  | **Neural Networks for Natural Language Processing** | Graham Neubig, Carnegie Mellon University                    | [CS 11-747](http://www.phontron.com/class/nn4nlp2020/schedule.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ) | S2020     |
 |      |                                                     |                                                              |                                                              |                                                              |           |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
