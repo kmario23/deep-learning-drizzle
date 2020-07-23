@@ -398,6 +398,9 @@
 |      |                                                              |                                                        |                                                              |                                                              |           |
 | 31.  | **Deep Learning for Computer Vision**                        | Justin Johnson, UMichigan                              | [EECS 498-007](https://web.eecs.umich.edu/~justincj/teaching/eecs498/) | [Lecture-Videos](http://leccap.engin.umich.edu/leccap/site/jhygcph151x25gjj1f0) | 2019      |
 | 32.  | **Sensors and State Estimation 2**                           | Cyrill Stachniss, University of Bonn                   | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) | S2020     |
+| 33.  | **Computer Vision III: Detection, Segmentation and Tracking** | Laura Leal-Taixé, TU München                           | [CV3DST](https://dvl.in.tum.de/teaching/cv3dst-ss20/)        | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLog3nOPCjKBneGyffEktlXXMfv1OtKmCs) | S2020     |
+| 34.  | **Advanced Deep Learning for Computer Vision**               | Laura Leal-Taixé and Matthias Nießner, TU München      | [ADL4CV](https://dvl.in.tum.de/teaching/adl4cv-ss20)         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39) | S2020     |
+|      |                                                              |                                                        |                                                              |                                                              |           |
 |      |                                                              |                                                        |                                                              |                                                              |           |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
@@ -464,7 +467,9 @@
 | 50. | **Computational Vision Summer School** | Lots of Legends, Black Forest, Germany | [CVSS-2019](http://orga.cvss.cc/program-cvss-2019/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLeCNfJWZKqxsvidOlVLtWq9s7sIsX1QTC) | 2019 |
 | | | | | | |
 | 51. | **Learning under complex structure** | Lots of Legends, MIT | [LUCS](https://mifods.mit.edu/complex.php) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLM4Pv4KYYzGwhIHcaY6zYR7M9hhFO4Vud) | 2020 |
-| 52. | **Machine Learning Summer School** | Lots of Legends, MPI-IS Tübingen | [MLSS](http://mlss.tuebingen.mpg.de/2020/schedule.html) | [YouTube-Lectures](https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw/videos) | SS2020 |
+| 52. | **Machine Learning Summer School** | Lots of Legends, MPI-IS Tübingen (virtual) | [MLSS](http://mlss.tuebingen.mpg.de/2020/schedule.html) | [YouTube-Lectures](https://www.youtube.com/channel/UCBOgpkDhQuYeVVjuzS5Wtxw/videos) | SS2020 |
+| 53. | **Eastern European Machine Learning Summer School** | Lots of Legends, Kraków, Poland (virtual) | [EEML](https://www.eeml.eu/program) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLaKY4p4V3gE1j01FOY2FeglV4jRntQj84) | S2020 |
+| 54. | **Lisbon Machine Learning Summer School** | Lots of Legends, Lisbon, Portugal (virtual) | [LxMLS](http://lxmls.it.pt/2020/?page_id=19) | [YouTube-Lectures](https://www.youtube.com/channel/UCkVFZWgT1jR75UvSLGP9_mw) | S2020 |
 | | | | | | |
 | | | | | | |
 
