@@ -99,7 +99,7 @@
 | 61. | **Introduction to Deep Learning** | Laura Leal-Taixé and Matthias Niessner, TU-München | [I2DL-IN2346](https://dvl.in.tum.de/teaching/i2dl-ss20/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLQ8Y4kIIbzy_OaXv86lfbQwPHSomk2o2e) | SS2020 |
 | 62. | **Deep Learning** | Sargur Srihari, SUNY-Buffalo | [CSE676](https://cedar.buffalo.edu/~srihari/CSE676/) | [YouTube-Lectures-P1](https://www.youtube.com/playlist?list=PLmx4utxjUQD70k_NzeiSIXf30m54T_e1h) <br/>[YouTube-Lectures-P2](https://www.youtube.com/channel/UCUm7yUmVJyAbYh_0ppJ4H-g/videos) | 2020 |
 | 63. | **Deep Learning Lecture Series** | Lots of Legends, DeepMind x UCL, London | [DLLS-20](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) | 2020 |
-| 64. | **MultiModal Machine Learning** | Louis-Philippe Morency & others, Carnegie Mellon University | [MMML-20](https://cmu-multicomp-lab.github.io/mmml-course/fall2020) | [YouTube-Lectures](https://www.youtube.com/channel/UCqlHIJTGYhiwQpNuPU5e2gg/videos) | F2020 |
+| 64. | **MultiModal Machine Learning** | Louis-Philippe Morency & others, Carnegie Mellon University | [11-777 MMML-20](https://cmu-multicomp-lab.github.io/mmml-course/fall2020) | [YouTube-Lectures](https://www.youtube.com/channel/UCqlHIJTGYhiwQpNuPU5e2gg/videos) | F2020 |
 | | | | | | |
 | | | | | | |
 
@@ -153,6 +153,7 @@
 | 13.  | **Convex Optimization**                     | Javier Peña & Ryan Tibshirani         | [10-725/36-725](https://www.stat.cmu.edu/~ryantibs/convexopt-F16) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLjbUi5mgii6AVdvImLB9-Hako68p9MpIC) | F2016 |
 | 14.  | **Convex Optimization**                     | Ryan Tibshirani, CMU                  | [10-725](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/)  | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLpIxOj-HnDsMM7BCNGC3hPFU3DfCWfVIw) <br/> [Lecture-Videos](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/) | F2018 |
 | 15.  | **Modern Algorithmic Optimization**         | Yurii Nesterov, UCLouvain             | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLEqoHzpnmTfAoUDqnmMly-KgyJ6ZM_axf) | 2018  |
+| 16.  | **One World Optimization Seminar**          | Lots of Legends, Universität Wien     | [1W-OPT](https://owos.univie.ac.at)                          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLBQo-yZOMzLWEcAptzTYOnwXo9hhXrAa2) | 2020- |
 |      |                                             |                                       |                                                              |                                                              |       |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
@@ -249,9 +250,10 @@
 | 14.  | **Reinforcement Learning**                               | Emma Brunskill, Stanford University                         | [CS234](http://web.stanford.edu/class/cs234/index.html)      | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | 2019   |
 | 15.  | **Reinforcement Learning Day**                           | Lots of Legends, Microsoft Research, New York               | [RLD-19](https://www.microsoft.com/en-us/research/event/reinforcement-learning-day-2019/#!agenda) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLD7HFcN7LXRe9nWEX3Up-RiCDi6-0mqVC) | 2019   |
 | 16.  | **New Directions in Reinforcement Learning and Control** | Lots of Legends, IAS, Princeton University                  | [NDRLC-19](https://www.math.ias.edu/ndrlc)                   | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ61sGqd6cbWCmTc275NrKu3) | 2019   |
-| 17.  | **Deep Reinforcement Learning**                          | Sergey Levine, UC Berkeley                                  | [CS285](http://rail.eecs.berkeley.edu/deeprlcourse/)         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A) | F2019  |
+| 17.  | **Deep Reinforcement Learning**                          | Sergey Levine, UC Berkeley                                  | [CS285](http://rail.eecs.berkeley.edu/deeprlcourse-fa19)     | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A) | F2019  |
 | 18.  | **Deep Multi-Task and Meta Learning**                    | Chelsea Finn, Stanford University                           | [CS330](https://cs330.stanford.edu/)                         | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5) | F2019  |
 | 19.  | **RL-Theory Seminars**                                   | Lots of Legends, Earth                                      | [RL-theory-sem](https://sites.google.com/view/rltheoryseminars/past-seminars) | [YouTube-Lectures](https://www.youtube.com/channel/UCfBFutC9RbKK6p--B4R9ebA/videos) | 2020 - |
+| 20.  | **Deep Reinforcement Learning**                          | Sergey Levine, UC Berkeley                                  | [CS285](http://rail.eecs.berkeley.edu/deeprlcourse)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc) | F2020  |
 |      |                                                          |                                                             |                                                              |                                                              |        |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
@@ -342,6 +344,7 @@
 | 10.  | **Natural Language Understanding**                  | Bill MacCartney and Christopher Potts                        | [CS224U](https://web.stanford.edu/class/cs224u)              | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20) | S2019     |
 |      |                                                     |                                                              |                                                              |                                                              |           |
 | 11.  | **Neural Networks for Natural Language Processing** | Graham Neubig, Carnegie Mellon University                    | [CS 11-747](http://www.phontron.com/class/nn4nlp2020/schedule.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ) | S2020     |
+| 12.  | **Advanced Natural Language Processing**            | Mohit Iyyer, UMass Amherst                                   | [CS 685](https://people.cs.umass.edu/~miyyer/cs685)          | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLWnsVgP6CzadmQX6qevbar3_vDBioWHJL) | F2020     |
 |      |                                                     |                                                              |                                                              |                                                              |           |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
