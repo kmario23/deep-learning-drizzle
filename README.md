@@ -102,14 +102,15 @@
 | 64. | **MultiModal Machine Learning** | Louis-Philippe Morency & others, Carnegie Mellon University | [11-777 MMML-20](https://cmu-multicomp-lab.github.io/mmml-course/fall2020) | [YouTube-Lectures](https://www.youtube.com/channel/UCqlHIJTGYhiwQpNuPU5e2gg/videos) | F2020 |
 | 65. | **Reliable and Interpretable Artificial Intelligence** | Martin Vechev, ETH Zürich | [RIAI-20](https://www.sri.inf.ethz.ch/teaching/riai2020) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLWjm4hHpaNg6c-W7JjNYDEC_kJK9oSp0Y) | F2020 |
 | 66. | **Fundamentals of Deep Learning** | David McAllester, Toyota Technological Institute, Chicago | [TTIC-31230](https://mcallester.github.io/ttic-31230/Fall2020) | [YouTube-Lectures](https://www.youtube.com/channel/UCciVrtrRR3bQdaGbti9-hVQ/videos) | F2020 |
-| 67. | **Deep Learning** | Andreas Geiger, Universität Tübingen | [DL-UT](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/teaching/lecture-deep-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | W20/21 |
-| 68. | **Fundamentals of Deep Learning** | Terence Parr and Yannet Interian, University of San Francisco | [DL-Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLFCc_Fc116ikeol9CZcWWKqmrJljxhE4N) | S2021 |
-| 69. | **Full Stack Deep Learning** | Pieter Abbeel, Sergey Karayev, UC Berkeley | [FS-DL](https://fullstackdeeplearning.com/spring2021) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv) | S2021 |
-| 70. | **Deep Learning: Designing, Visualizing, and Understanding DNNs** | Sergey Levine, UC Berkeley | [CS 182](https://cs182sp21.github.io) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) | S2021 |
-|  | | | | | |
-| 71. | **Deep Learning in the Life Sciences** | Manolis Kellis, MIT | [6.874](https://mit6874.github.io) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX) | S2021 |
-| 72. | **Introduction to Deep Learning and Generative Models** | Sebastian Raschka, University of Wisconsin-Madison | [Stat 453](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2021) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) | S2021 |
-| 73. | **Applied Deep Learning** | Alexander Pacha, TU Wien | `None` | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE8xNYTEyorbaWPN7nvbWyk1) | 2020-2021 |
+| 67. | **Foundations of Deep Learning** | Soheil Feize, University of Maryland, College Park | [CMSC 828W](http://www.cs.umd.edu/class/fall2020/cmsc828W) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLHgjs9ncvHi80UCSlSvQe-TK_uOyDv_Jf) | F2020 |
+| 68. | **Deep Learning** | Andreas Geiger, Universität Tübingen | [DL-UT](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/teaching/lecture-deep-learning/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD) | W20/21 |
+| 69. | **Fundamentals of Deep Learning** | Terence Parr and Yannet Interian, University of San Francisco | [DL-Fundamentals](https://github.com/parrt/fundamentals-of-deep-learning) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLFCc_Fc116ikeol9CZcWWKqmrJljxhE4N) | S2021 |
+| 70. | **Full Stack Deep Learning** | Pieter Abbeel, Sergey Karayev, UC Berkeley | [FS-DL](https://fullstackdeeplearning.com/spring2021) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv) | S2021 |
+|  |  |  |  |  |  |
+| 71. | **Deep Learning: Designing, Visualizing, and Understanding DNNs** | Sergey Levine, UC Berkeley | [CS 182](https://cs182sp21.github.io) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A) | S2021 |
+| 72. | **Deep Learning in the Life Sciences** | Manolis Kellis, MIT | [6.874](https://mit6874.github.io) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX) | S2021 |
+| 73. | **Introduction to Deep Learning and Generative Models** | Sebastian Raschka, University of Wisconsin-Madison | [Stat 453](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2021) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) | S2021 |
+| 74. | **Applied Deep Learning** | Alexander Pacha, TU Wien | `None` | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE8xNYTEyorbaWPN7nvbWyk1) | 2020-2021 |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
@@ -363,6 +364,7 @@
 | 12.  | **Israeli Geometric Deep Learning**                          | Lots of Legends, Israel                                 | [iGDL-20](https://gdl-israel.github.io/schedule.html)        | [Lecture-Videos](https://www.youtube.com/watch?v=c8_32IVn-sg) | 2020  |
 | 13.  | **Machine Learning for Graphs and Sequential Data**          | Stephan Günnemann, Technische Universität München (TUM) | [MLGS-20](https://www.in.tum.de/en/daml/teaching/summer-term-2020/machine-learning-for-graphs-and-sequential-data/) | [Lecture-Videos](https://www.in.tum.de/daml/teaching/mlgs/)  | S2020 |
 | 14.  | **Machine Learning with Graphs**                             | Jure Leskovec, Stanford                                 | [CS224W](http://web.stanford.edu/class/cs224w)               | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | W2021 |
+| 15.  | **Geometric Deep Learning** - AMMI                           | Lots of Legends, Virtual                                | [GDL-AMMI](https://geometricdeeplearning.com/lectures)       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3) | 2021  |
 |      |                                                              |                                                         |                                                              |                                                              |       |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
@@ -466,6 +468,7 @@
 | 44.  | **Computer Vision**                                          | Andreas Geiger, Universität Tübingen                   | [Comp.Vis](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_) | S2021      |
 | 45.  | **3D Computer Vision**                                       | Lee Gim Hee, National Univeristy of Singapura          | `None`                                                       | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz) | 2021       |
 | 46.  | **Deep Learning for Computer Vision: Fundamentals and Applications** | T. Dekel et al., Weizmann Institute of Science         | [DL4CV](https://dl4cv.github.io/schedule.html)               | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) | S2021      |
+| 47.  | **Current Topics in ML Methods in 3D and Geometric Deep Learning** | Animesh Garg  & others, University of Toronto          | [CSC 2547](http://www.pair.toronto.edu/csc2547-w21)          | [YouTube-Lectures](https://www.youtube.com/channel/UCrsmAXnwu6sgccWevW12Dfg/videos) | 2021       |
 |      |                                                              |                                                        |                                                              |                                                              |            |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
@@ -537,7 +540,7 @@
 | 54. | **Lisbon Machine Learning Summer School** | Lots of Legends, Lisbon, Portugal (virtual) | [LxMLS](http://lxmls.it.pt/2020/?page_id=19) | [YouTube-Lectures](https://www.youtube.com/channel/UCkVFZWgT1jR75UvSLGP9_mw) | S2020 |
 | 55. | **Workshop on New Directions in Optimization, Statistics and Machine Learning** | Lots of Legends,  Institute of Advanced Study, Princeton | [ML-Opt new dir.](https://www.ias.edu/video/workshop/2020/0415-16) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdDZb3TwJPZ4Ri6i0MIdesIEpYK4lx17Q) | 2020 |
 | 56. | **Mediterranean Machine Learning School** | Lots of Legends, Italy (virtual) | [M2L-school](https://www.m2lschool.org/talks) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLF-wkqRv4u1YRbfnwN8cXXyrmXld-sked) | 2021 |
-| | | | | | |
+| 57. | **Mathematics of Machine Learning - One World Seminar** | Lots of Legends, Virtual | [1W-ML](https://sites.google.com/view/oneworldml/past-events) | [YouTube-Lectures](https://www.youtube.com/channel/UCz7WlgXs20CzugkfxhFCNFg/videos) | 2020 - now |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents)
