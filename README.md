@@ -111,6 +111,7 @@
 | 72. | **Deep Learning in the Life Sciences** | Manolis Kellis, MIT | [6.874](https://mit6874.github.io) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX) | S2021 |
 | 73. | **Introduction to Deep Learning and Generative Models** | Sebastian Raschka, University of Wisconsin-Madison | [Stat 453](http://pages.stat.wisc.edu/~sraschka/teaching/stat453-ss2021) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51) | S2021 |
 | 74. | **Applied Deep Learning** | Alexander Pacha, TU Wien | `None` | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE8xNYTEyorbaWPN7nvbWyk1) | 2020-2021 |
+| 75. | **Deep Learning** | Alfredo Canziani and Yann LeCun, NYU | [NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) | S2021 |
 | | | | | | |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
