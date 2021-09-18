@@ -1,0 +1,369 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+  <link href="https://emoji.tryhtml.org/emoji.css" rel="stylesheet">
+
+  <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+  <!-- fontawesome animation (local copy)-->
+  <link href="./font-awesome/css/font-awesome-animation.min.css" rel="stylesheet">
+
+  <title>Deep Learning Drizzle</title>
+  <style>
+    h1{
+       text-align: center;
+    }
+
+    body{
+         background-color: #E5E0DF;
+    }
+    .heart{
+           color:#e25555;
+          }
+    .text_center {text-align: center;}
+
+    hr{
+       height: 2px;
+       color: #DBA345;
+       background-color: #DBA345;
+       border: none;
+     }
+
+   /* DIV ids for all tables' title */
+   #contents {color: red;}
+
+   .centerTable { margin: 0px auto; }
+
+   /* table of contents table*/
+   #toc {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 50%;  /* adjust table width */
+   }
+   #toc td, #toc th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #toc tr:nth-child(even){background-color: #f5f5f5;}
+   #toc tr:hover {background-color: #539a9a;}
+   #toc th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+
+   /* deep learning or deep neural networks table */
+   #dldnn {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #dldnn td, #dldnn th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #dldnn tr:nth-child(even){background-color: #f5f5f5;}
+   #dldnn tr:hover {background-color: #539a9a;}
+   #dldnn th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+
+  /* Machine Learning fundamentals table */
+   #mlfund {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #mlfund td, #mlfund th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #mlfund tr:nth-child(even){background-color: #f5f5f5;}
+   #mlfund tr:hover {background-color: #539a9a;}
+   #mlfund th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+  /* Optimization for Machine Learning table */
+   #opt4ml {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #opt4ml td, #opt4ml th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #opt4ml tr:nth-child(even){background-color: #f5f5f5;}
+   #opt4ml tr:hover {background-color: #539a9a;}
+   #opt4ml th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+
+  /* General Machine Learning table */
+   #genml {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #genml td, #genml th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #genml tr:nth-child(even){background-color: #f5f5f5;}
+   #genml tr:hover {background-color: #539a9a;}
+   #genml th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+
+  /* Reinforcement Learning table */
+   #reinf {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #reinf td, #reinf th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #reinf tr:nth-child(even){background-color: #f5f5f5;}
+   #reinf tr:hover {background-color: #539a9a;}
+   #reinf th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+
+  /* Bayesian Deep Learning table */
+   #bayesdl {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #bayesdl td, #bayesdl th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #bayesdl tr:nth-child(even){background-color: #f5f5f5;}
+   #bayesdl tr:hover {background-color: #539a9a;}
+   #bayesdl th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+
+  /* Medical Imaging table */
+   #medimg {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #medimg td, #medimg th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #medimg tr:nth-child(even){background-color: #f5f5f5;}
+   #medimg tr:hover {background-color: #539a9a;}
+   #medimg th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+
+
+  /* Probabilistic Graphical Models */
+   #probgm {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #probgm td, #probgm th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #probgm tr:nth-child(even){background-color: #f5f5f5;}
+   #probgm tr:hover {background-color: #539a9a;}
+   #probgm th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+  /* Graph Neural Networks */
+   #graphnn {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #graphnn td, #graphnn th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #graphnn tr:nth-child(even){background-color: #f5f5f5;}
+   #graphnn tr:hover {background-color: #539a9a;}
+   #graphnn th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+  /* Natural Language Processing */
+  #nlpnn {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #nlpnn td, #nlpnn th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #nlpnn tr:nth-child(even){background-color: #f5f5f5;}
+   #nlpnn tr:hover {background-color: #539a9a;}
+   #nlpnn th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+  /* Automatic Speech Recognition */
+  #asrnn {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #asrnn td, #asrnn th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #asrnn tr:nth-child(even){background-color: #f5f5f5;}
+   #asrnn tr:hover {background-color: #539a9a;}
+   #asrnn th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+  /* Modern Computer Vision */
+  #cvnn {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #cvnn td, #cvnn th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #cvnn tr:nth-child(even){background-color: #f5f5f5;}
+   #cvnn tr:hover {background-color: #539a9a;}
+   #cvnn th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+  /* Boot Camps or Summer Schools */
+  #bcss {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #bcss td, #bcss th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #bcss tr:nth-child(even){background-color: #f5f5f5;}
+   #bcss tr:hover {background-color: #539a9a;}
+   #bcss th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+  /* Bird's Eye-view of A(G)I */
+  #aginn {
+         font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+         border-collapse: collapse;
+         width: 100%;  /* adjust table width */
+   }
+   #aginn td, #aginn th {
+                     border: 1px solid black; 
+                     padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
+                     text-align: left;
+   }
+   #aginn tr:nth-child(even){background-color: #f5f5f5;}
+   #aginn tr:hover {background-color: #539a9a;}
+   #aginn th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: center;
+            background-color: #539a9a;
+            color: white;
+   }
+
+</style>
+
+</head>
+
+<body>
+

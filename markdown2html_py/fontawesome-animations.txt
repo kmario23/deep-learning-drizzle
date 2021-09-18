@@ -1,0 +1,2 @@
+BEG: <i class='fab fa-jedi-order faa-pulse animated' style='font-size:40px;color:saddlebrown'></i> &nbsp;
+END: &nbsp; <i class='fas fa-cloud-rain faa-passing animated' style='font-size:33px;color:dodgerblue'></i> <i class='fas fa-cloud-showers-heavy faa-passing animated' style='font-size:33px;color:dodgerblue'></i> <i class='fas fa-cloud-showers-heavy faa-passing animated' style='font-size:33px;color:dodgerblue'></i>
