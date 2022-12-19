@@ -415,6 +415,7 @@
 | 14.  | **Neural Networks for NLP**                         | Graham Neubig, Carnegie Mellon University                    | [CS 11-747](http://www.phontron.com/class/nn4nlp2021)        | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV) | 2021      |
 | 15.  | **Deep Learning for Natural Language Processing**   | Kyunghyun Cho, New York University                           | [DS-GA 1011](https://drive.google.com/drive/folders/1ykXBtophaY_65VHK_8yDzZQJwfJDD5Ve) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLdH9u0f1XKW_s-c8EcgJpn_HJz5Jj1IRf) | F2021     |
 | 16.  | **Natural Language Processing with Deep Learning**  | Chris Manning, Stanford University                           | [CS224n](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) | 2021      |
+| 16.  | **Advanced NLP 2022**  |   Graham Neubig, Carnegie Mellon University                         | [CS224n](https://phontron.com/class/anlp2022/schedule/prompting.html) | [YouTube-Lectures](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z) | 2022      |
 |      |                                                     |                                                              |                                                              |                                                              |           |
 
 [Go to Contents :arrow_heading_up:](https://github.com/kmario23/deep-learning-drizzle#contents) 
