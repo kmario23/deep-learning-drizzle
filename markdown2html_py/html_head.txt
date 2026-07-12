@@ -45,7 +45,7 @@
          width: 50%;  /* adjust table width */
    }
    #toc td, #toc th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -67,7 +67,7 @@
          width: 100%;  /* adjust table width */
    }
    #dldnn td, #dldnn th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -89,7 +89,7 @@
          width: 100%;  /* adjust table width */
    }
    #mlfund td, #mlfund th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -110,7 +110,7 @@
          width: 100%;  /* adjust table width */
    }
    #opt4ml td, #opt4ml th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -132,7 +132,7 @@
          width: 100%;  /* adjust table width */
    }
    #genml td, #genml th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -154,7 +154,7 @@
          width: 100%;  /* adjust table width */
    }
    #reinf td, #reinf th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -176,7 +176,7 @@
          width: 100%;  /* adjust table width */
    }
    #bayesdl td, #bayesdl th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -198,7 +198,7 @@
          width: 100%;  /* adjust table width */
    }
    #medimg td, #medimg th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -221,7 +221,7 @@
          width: 100%;  /* adjust table width */
    }
    #probgm td, #probgm th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -242,7 +242,7 @@
          width: 100%;  /* adjust table width */
    }
    #graphnn td, #graphnn th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -263,7 +263,7 @@
          width: 100%;  /* adjust table width */
    }
    #nlpnn td, #nlpnn th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -284,7 +284,7 @@
          width: 100%;  /* adjust table width */
    }
    #asrnn td, #asrnn th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -305,7 +305,7 @@
          width: 100%;  /* adjust table width */
    }
    #cvnn td, #cvnn th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -326,7 +326,7 @@
          width: 100%;  /* adjust table width */
    }
    #bcss td, #bcss th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }
@@ -347,7 +347,7 @@
          width: 100%;  /* adjust table width */
    }
    #aginn td, #aginn th {
-                     border: 1px solid black; 
+                     border: 1px solid black;
                      padding: 5px 10px 5px 20px;  /* top, right, bottom, left */
                      text-align: left;
    }

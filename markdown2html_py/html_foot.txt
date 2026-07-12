@@ -9,9 +9,9 @@
 <p class="text_center">
    <!-- to get the counts, watch, and forks from github repository, using http://ghbtns.com/ -->
     <iframe src="https://ghbtns.com/github-btn.html?user=kmario23&repo=deep-learning-drizzle&type=star&count=true" frameborder="0" scrolling="0" width="110px" height="17px"></iframe>
-    Made with <i class='fas fa-heart faa-pulse faa-fast animated' style='font-size:23px;color:crimson'></i> and maintained by 
+    Made with <i class='fas fa-heart faa-pulse faa-fast animated' style='font-size:23px;color:crimson'></i> and maintained by
     <a href="https://github.com/kmario23" style="text-decoration:none"> @kmario23</a>, <b>S</b>aarland <b>I</b>nformatics <b>C</b>ampus &nbsp;
-    <iframe src="https://ghbtns.com/github-btn.html?user=kmario23&repo=deep-learning-drizzle&type=fork&count=true" frameborder="0" scrolling="0" width="110px" height="17px"></iframe> 
+    <iframe src="https://ghbtns.com/github-btn.html?user=kmario23&repo=deep-learning-drizzle&type=fork&count=true" frameborder="0" scrolling="0" width="110px" height="17px"></iframe>
 <iframe src="https://ghbtns.com/github-btn.html?user=kmario23&repo=deep-learning-drizzle&type=watch&count=true&v=2" frameborder="0" scrolling="0" width="110px" height="17px"></iframe>
 </p>
 
